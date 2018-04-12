@@ -1,3 +1,10 @@
+[Adblock Plus 2.0]
+! Homepage: 
+! Title: Custom Grace
+! Version: 6555
+! Last modified: 12 Apr 2018
+! Description: Lista de Grace
+!-_-_-_-_-_-_-_-External Link Survey Scams-_-_-_-_-_-_-_-!
 ###adb-enabled
 ###adbl
 ###ap
