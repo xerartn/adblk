@@ -13,23 +13,34 @@
 ##.abp_ob_exist
 ##.abp_ob_wl
 ##script[src="http://www.adnetworkperformance.com/*"]
-.info/*==|$popup,third-party
-/abp-detection.js?ch=2$domain=linkedin.com
-/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAL/3/SrV7P8AsTHMFSpPmYbyv2PkACHwmG9Z+1IFZq3vA54IN7pQcGnhgNo+8SN9r/KtUWCb9OPqTfWM1N4w/EUCAwEAAQ
-/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
-/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ
-/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
 3djuegos.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 3djuegos.com##.OUTBRAIN > .SF_1 > .ob-first .ob-p
 750g.com##.OUTBRAIN > .CRAB_6 > .ob-first .ob-p
-@@||dinostream.pw/channel.php?file=105816&width=650&height=400&autostart=true
-ads.ad4game.com
-ae1a1e258b8b016.com
 allocine.fr##.OUTBRAIN > .VR_1
-Amazon.comads(https://adblockplus.org/forum/viewtopic.php?p=142870#p142870)
 androidfact.com##.entry-content > DIV[style="float:left;margin-right:5px;"]:first-child
-animeid.io##.o371XZ6x0S7zA
-animeid.io##.rRCcV1bldp
+animeflv.net###infinity
+animeflv.net###M105140ScriptRootC148253
+animeflv.net##.AnflvTl
+animeflv.net##.anun
+animeflv.net##.Bod.ScrlV.Fl.mCustomScrollbar._mCS_7.mCS_no_scrollbar
+animeflv.net##.BtnNw.Clgt.BxSdw.lgtbx-lnk.fa-lightbulb-o
+animeflv.net##.BtnNw.CVst.BxSdw.fa-eye
+animeflv.net##.BtnNw.Dwnd.BxSdw.fa-download.AAShwHdd-lnk
+animeflv.net##.BtnNw.Rprt.BxSdw.fa-flag-o
+animeflv.net##.BtnNw.Xpnd.BxSdw.AAShwHdd-lnk
+animeflv.net##.Button
+animeflv.net##.fa-expand
+animeflv.net##.fa-facebook
+animeflv.net##.Footer
+animeflv.net##.kudasai
+animeflv.net##.NtxtCp.WdgtCn.fa-warning
+animeflv.net##.ShrCnB.fa-share-alt
+animeflv.net##.sorteo
+animeflv.net##.Top
+animeflv.net##.youtube
+animeflv.net##body > a
+animeflv.net##body > div.Wrapper > div > div > div.BX.Row.BFluid.Sp20 > main > div:nth-child(1)
+animeflv.net##body > div.Wrapper > div > div > div.BX.Row.BFluid.Sp20 > main > div:nth-child(6)
 animeid.io##iframe[style="width: 100%; margin: 0px auto; overflow: hidden; opacity: 1; transition: height 0.3s linear, opacity 0.3s ease-in; visibility: visible !important; max-height: none !important; border: none; display: block; height: 238px;"]
 animeid.tv##.b
 aol.com##.m-3rd-row-below-article__article
@@ -41,13 +52,10 @@ betterdocs.net###Be07CtDzmxTqmdkHNplhUTlt9cATaC
 betterdocs.net###L1tFklznIfRpbb3B8OKBna9K3adGBU
 betterdocs.net###UjecYoMJA8Y2G2M14M6SqmTeCOITj3
 betterdocs.net##ad-center
-binbox.io###paste-frame
-binbox.io##iframe[src="about:blank"]
 bleacherreport.com##.OUTBRAIN > .CRAB_2
 blog.seattlepi.com,blog.beaumontenterprise.com,blog.timesunion.com,blog.mysanantonio.com,blog.chron.com##.OUTBRAIN > .AR_16 > .ob-last > .ob-widget-items-container
 blog.seattlepi.com,blog.chron.com,blog.mysanantonio.com##.OUTBRAIN > .AR_15 > .ob-first > .ob-widget-items-container
 blog.timesunion.com##.OUTBRAIN > .SB_7 > .ob-first > .ob-widget-items-container
-body>div.Wrapper>div>div>div.BX.Row.BFluid.Sp20>main>ul.ListEpisodios.AX.Rows.A06.C04.D03
 bradsknutson.com###social-media
 buzja.com###taboola-mid-article-bulk
 caffeinamagazine.it###taboola-below-title-thumbnails
@@ -63,10 +71,6 @@ cias3dsbackups.com###g207
 classroom.synonym.com##.article-text > .summary + .text-ad
 click2houston.com,clickondetroit.com,news4jax.com,local10.com,clickorlando.com##.OUTBRAIN > .AR_4 > .ob-first .ob-p
 cnn.com##.OUTBRAIN > .AR_13 > .ob_dual_left
-coin-hive.com/lib/coinhive*
-coin-hive.com/lib/coinhive.min.js
-comunidad.movistar.es###csi-modal-inicial-bg
-comunidad.movistar.es##.csi-modal
 cookinglight.com,coastalliving.com,sunset.com##.OUTBRAIN > .AR_4 .ob-p
 cookinglight.com,instyle.com##.OUTBRAIN > .AR_2 .ob-p
 courrierinternational.com##.OUTBRAIN > .AR_11 > .ob-widget-section.ob-last
@@ -77,11 +81,9 @@ dailyundercover.com##.adwrapper > .adtext
 dailyundercover.com##.adwrapper > DIV[style="height:250px; width:300px; overflow:hidden"]
 dance-charts.de###advert_superbanner
 dance-charts.de##.item-page > #gadscontent .adsbygoogle
-data:text/html;base64$popup
 deviantart.com##.banner-wrap
 deviantart.com##.block-notice
 deviantart.com##.mc-ad-chrome.atf-top-728x90
-deviantart.com/newest
 distractify.com,salon.com###outbrain_widget_0
 dohack.org##.blocker-notice
 dohack.org##.blocker-overlay
@@ -120,32 +122,16 @@ foxnews.com##.OUTBRAIN > .ob_dual_container.CR_2 > .ob_dual_left > .obpd_header 
 fxp.co.il##.OUTBRAIN > .SL_1 .ob-p
 gazeta.pl###div-gpt-ad-001-TOPBOARD-0
 gearshout.net###advads_ad_widget-3
-getrom.net###_bd
-getrom.net###fade
-getrom.net##.black_overlay
-getrom.net##.sm_content
-go.oclasrv.com
-gr8musik.com
-gyazo.com##.btn.btn-close-ad
-gyazo.com##.gy-icon-close
-gyazo.com##.upper-ad-box
 heise.de###bannerzone [href^="http://pubads.g.doubleclick.net/"] > IMG
 helpster.de##.article-content DIV[data-engagement="\7b \"category\":\"click-advertisement\",\"action\":\"adsense\",\"label\":\"medium\"\7d "]
 helpster.de##.article-header > DIV[data-engagement="\7b \"category\":\"click-advertisement\",\"action\":\"adsense\",\"label\":\"top\"\7d "]
 hipertextual.com##.banner:not(.abp)
-hotelscombined.es
-http://ads.pubmatic.com/*
-http://blockadblock.com
-http://www.teatroporno.com/
-https://coin-hive.com/lib/coinhive.min.js
 huffingtonpost.fr###modulous_right_rail_recirc > .OUTBRAIN > .ob-widget .ob-p
 huffingtonpost.fr##ARTICLE > #outbrain_widget_4
 huffingtonpost.fr,people.com,stamfordadvocate.com,timesunion.com,wfxg.com,wafb.com,tucsonnewsnow.com,cleveland19.com,kplctv.com,ktre.com,wect.com,fox8live.com,kcbd.com,ksla.com,wbtv.com,wlox.com,wtoc.com,wsfa.com,live5news.com,hawaiinewsnow.com,14news.com,wmcactionnews5.com,walb.com,waff.com,kfvs12.com,foxbusiness.com,msnewsnow.com,kltv.com,wistv.com,nbc12.com,wtvm.com,wtol.com,fox19.com,wmbfnews.com,wdam.com###outbrain_widget_1 > .ob-widget > .ob-widget-section.ob-first
-iforex.es
 indianexpress.com##.OUTBRAIN > .SL_1
 jkanime.net##.feed_box
 jkanime.net##.publibox
-join.pro-gaming-world.com/
 kktv.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 lacuevadeguns.com###fade
 lacuevadeguns.com###light
@@ -168,7 +154,27 @@ money.cnn.com##.OUTBRAIN > .AR_6 > .ob_dual_left
 money.cnn.com##.OUTBRAIN > .SB_3
 msn.com##.swipenav .ob-msn
 msn.com##DIV[id^="tb_homePage_carousel_"] DIV[id^="internal_trc_"]
-musikzoo.com
+myanimelist.net###content > div.left-column.pt12 > article:nth-child(4) > div > div
+myanimelist.net###content > table > tbody > tr > td.borderClass > div > div.clearfix.mauto.mt16
+myanimelist.net###content > table > tbody > tr > td:nth-child(2) > div.mauto.clearfix.pt24
+myanimelist.net##._unit
+myanimelist.net##.fb-page
+myanimelist.net##.widget right_top_ad right
+myanimelist.net##.widget.right_top_ad.right
+myanimelist.net##div[style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;"]
+myanimelist.net##div[style="padding: 20px 0px;display: inline-block;"]
+myanimelist.net##div[style="padding: 20px 40px 20px 0; float: right; position: relative;"]
+myanimelist.net##div[style="padding: 20px 40px;display: inline-block;"]
+myanimelist.net##div[style="padding:16px 0px 0px 0px;"]
+myanimelist.net##table[style="width:100%;height:100%;text-align:center;border-collapse:collapse;"]
+myanimelist.net##table[style="width:100%;height:100%;text-align:center;border-collapse:collapse;margin:auto;"]
+myanimelist.net##table[style="width:calc(100% - 2px);height:100%;text-align:center;border-collapse:collapse;border: #ebebeb 1px solid;"]
+myanimelist.net##table[style="width:calc(100% - 2px);height:100%;text-align:center;border-collapse:collapse;border: #ebebeb 1px solid;margin:auto;"]
+myanimelist.net##td[style="height:20%;background:#ebebeb;padding:8px 0px;color:#545454;font-size:11px;"]
+myanimelist.net##td[style="height:30%;background:#1E439B;color:#fff;font-size:14px;"]
+myanimelist.net##td[style="height:40%;background:#1E439B;color:#fff;font-size:16px;line-height:200%;"]
+myanimelist.net##td[style="height:40%;background:#4f74c8;color:#f6f6f6;font-size:14px;line-height:170%;"]
+myanimelist.net##td[style="height:50%;background:#4f74c8;color:#f6f6f6;font-size:14px;"]
 myhomeideas.com##.OUTBRAIN > .SB_3 .ob-p
 myplainview.com,yourconroenews.com##.OUTBRAIN > .AR_3 > .ob-first .ob-p
 myrecipes.com##.OUTBRAIN > .AR_6 .ob-p
@@ -179,12 +185,6 @@ noticiariodirecto.com##.sidebar-widget.widget_text
 noticiasaominuto.com.br##.taboolaLightbox
 nouvelobs.com##.OUTBRAIN > .AR_6 > .ob_dual_left
 nouvelobs.com##.OUTBRAIN > .SB_2 .ob-p
-oload.site##.exo-native-widget-header
-oload.site##.exo-native-widget-item-image
-oload.site##.exo-native-widget-item-title
-onclkds.com
-one1gameplay.com
-one1gameplay.com/
 opendi.at,opendi.de,opendi.ch,opendi.be,opendi.nl,opendi.es###container > DIV[style="position: absolute; top: 115px; margin-left: 810px;"]
 openload.co##.exo-native-widget-header
 openload.co##.exo-native-widget-item
@@ -195,16 +195,13 @@ opensubtitles.org##.white_content
 outlook.live.com##._2qPmszDwBfYpF7PO9Mn3KN
 outlook.live.com##.stQe7wknhnXCAAroiyvBY
 peopleenespanol.com##.OUTBRAIN > .SB_1 .ob-p
-pepgamez.com
 pinterest.se##div[style="background: rgba(0, 0, 0, 0.85098); transition: height 0.5s cubic-bezier(0.26, 0.87, 0.74, 0.93); backface-visibility: hidden; bottom: 0px; color: rgb(255, 255, 255); height: 100%; position: fixed; width: 100%;"]
 pinterest.se##div[style="min-height: 400px; padding: 20px 10px;"]
 practicalmotorhome.com,practicalcaravan.com###tlc-sidebar > #outbrain_widget_1
 proceso.com.mx##.trc_rbox.thumbnails-b
-profitmaximizer.co
 reddit.com###adblock-test
 riviera24.it##.skinLink
 rossdraws.deviantart.com##.banner-wrap
-s7.addthis.com
 salon.com##.OUTBRAIN + * > .AR_2 > .ob-first .ob-p
 salon.com##.OUTBRAIN > .ob-widget.ob-strip-layout.AR_3
 screenrant.com###js-popup-blocker
@@ -213,7 +210,6 @@ search.avira.net##.bottom-ad-zone:not(#bottom-ad-zone)
 search.avira.net##.right-ad-zone
 search.avira.net##.top-ad-zone:not(#top-ad-zone)
 seekingalpha.com###article-right-slot-1
-seen-on-screen.thewhizmarketing.com
 sensacine.com##.OUTBRAIN > .CRAB_2
 sensacine.com##.OUTBRAIN > .CRAB_3
 seoslim.ru##.post > #yandex1
@@ -235,7 +231,6 @@ streamcloud.pro##body > footer
 streamin.to###\34 vHbo33QH4sCuJwDxV14HxjBvCD7X1
 streamin.to###aFMElRTUlhAOb0qxjZjCHpo02urTnE
 streamin.to##a[style="position: fixed; top:0; left:0; width:100%; height:100%; z-index: 9999; display: block;"]
-systemrequirementslab.com##.driveLinkClick
 t-online.de###Tsib > DIV[onfocus="A('mp=TopPartner')"]
 telerama.fr,lesinrocks.com###outbrain_widget_3
 thedirty.com##.latest-iframe
@@ -256,16 +251,21 @@ tweaktown.com###pcufbs
 tweaktown.com##.jewibr
 tweaktown.com##.kavnjbk
 tweaktown.com##.veekesmf
-twitter.com##.promoted-tweet-heading
+twitter.com###div.module.wtf-module.js-wtf-module.roaming-module.has-content
+twitter.com###stream-item-recap_entry-817745194871177218
+twitter.com##-original-tweet.promoted-tweet
+twitter.com##.ProfileUserList.ProfileUserList--socialProof
+twitter.com##.promoted-tweet
+twitter.com##.promoted-tweet.has-cards.has-content.presented.scribed
+twitter.com##.tweet.js-stream-tweet.js-actionable-tweet.js-profile-popup-actionable.original-tweet.js-original-tweet.promoted-tweet.has-cards.has-content.presented.scribed
+twitter.com##div.module.wtf-module.js-wtf-module.roaming-module.has-content
 unfassbar.es##.top_banner
 uploaded.net###pico-3
 uploaded.net##.hg_container-area
 uploaded.net##.pico-content
 uploaded.net##.pico-overlay
-urlcloud.us##table[style="display:inline-block;"]
 usasupreme.com###revslider
 ver-pelis.me##a[style="width:100%; height:100%; display:block!important; position:fixed; top:0px; left:0px;cursor: pointer;z-index: 2147483647;"]
-warthunder.com
 wg-gesucht.de##DIV[id^="div-gpt-ad-"][style^="margin: 11px "]
 widgets.outbrain.com##.abp_ob_exist
 widgets.outbrain.com##.abp_ob_wl
@@ -280,37 +280,113 @@ winfuture.de##.hp_latest > .o_hidden > DIV[class^="singleblock_homepage_slot"]
 winfuture.de##.SL_1 A[data-redirect^="http://paid.outbrain.com/network/redir?"]
 winfuture.de##.wf_gcsi[style="width:660px;min-height:200px;background-color:white;margin-bottom:10px;"]
 winfuture.de##.ws_singleAdNews
-wish.com###login-modal-overlay
-wish.com###new-login-modal
-wish.com###simplemodal-container
-wish.com##.column
-wish.com##.cronkite.windows-download-button
-wish.com##.simplemodal-container
-wish.com##.simplemodal-overlay
-wish.com##.simplemodal-wrap
-www.declk.com
-www6.mangafreak.net##.g8cv9oaPKclR
 xiaomitips.com##.onp-sl-group.onp-sl-social-buttons.onp-sl-first-group.onp-sl-single-group.onp-sl-group-index-1.onp-sl-has-counters.onp-sl-horizontal.onp-sl-lang-en_US
 xiaomitips.com##.onp-sl-overlap-background
 xiaomitips.com##.onp-sl-overlap-box.onp-sl-transparence-mode.onp-sl-secrets-theme
 yahoo.com##.ysab
 yourupload.com###ad_block_0
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-covering-shadow-top
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-that.ytp-ce-bottom-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-bottom-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-playlist.ytp-ce-top-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-bottom-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-bottom-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-website.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-website.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show.ytp-ce-element-hover.ytp-ce-force-expand
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-expanding-overlay
+youtube.com##.ytp-ce-expanding-overlay-background
+youtubeplaylist-mp3.com##.share-popup
+youtubeplaylist-mp3.com##.side-strip
 zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
+getrom.net###fade
+getrom.net##.black_overlay
+getrom.net###_bd
+getrom.net##.sm_content
+twitter.com##.promoted-tweet-heading
+animeflv.net###M105140PreloadC186183
+lookism.wikia.com###google_ads_iframe_\/5441\/wka\.ent\/_not_a_top1k_wiki\/\/article\/gpt\/TOP_RIGHT_BOXAD_0
+lookism.wikia.com###google_ads_iframe_
+lookism.wikia.com###google_ads_iframe
+lookism.wikia.com###google_ads
+animeflv.net###M105140PreloadC189203
+comunidad.movistar.es###csi-modal-inicial-bg
+comunidad.movistar.es##.csi-modal
+animeid.io##.rRCcV1bldp
+animeid.io##.o371XZ6x0S7zA
+binbox.io###paste-frame
+binbox.io##iframe[src="about:blank"]
+gyazo.com##.gy-icon-close
+gyazo.com##.btn.btn-close-ad
+gyazo.com##.upper-ad-box
+oload.site##.exo-native-widget-header
+oload.site##.exo-native-widget-item-image
+oload.site##.exo-native-widget-item-title
+wish.com###login-modal-overlay
+wish.com##.simplemodal-overlay
+wish.com##.column
+wish.com##.cronkite.windows-download-button
+wish.com###new-login-modal
+wish.com##.simplemodal-wrap
+wish.com###simplemodal-container
+wish.com##.simplemodal-container
+systemrequirementslab.com##.driveLinkClick
+www6.mangafreak.net##.g8cv9oaPKclR
+urlcloud.us##table[style="display:inline-block;"]
+@@||dinostream.pw/channel.php?file=105816&width=650&height=400&autostart=true
+.info/*==|$popup,third-party
+/abp-detection.js?ch=2$domain=linkedin.com
+/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAL/3/SrV7P8AsTHMFSpPmYbyv2PkACHwmG9Z+1IFZq3vA54IN7pQcGnhgNo+8SN9r/KtUWCb9OPqTfWM1N4w/EUCAwEAAQ
+/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
+/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ
+/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
+ads.ad4game.com
+ae1a1e258b8b016.com
+Amazon.comads(https://adblockplus.org/forum/viewtopic.php?p=142870#p142870)
+body>div.Wrapper>div>div>div.BX.Row.BFluid.Sp20>main>ul.ListEpisodios.AX.Rows.A06.C04.D03
+data:text/html;base64$popup
+deviantart.com/newest
+go.oclasrv.com
+gr8musik.com
+hotelscombined.es
+http://ads.pubmatic.com/*
+http://blockadblock.com
+http://www.teatroporno.com/
+https://coin-hive.com/lib/coinhive.min.js
+iforex.es
+join.pro-gaming-world.com/
+musikzoo.com
+onclkds.com
+one1gameplay.com
+one1gameplay.com/
+pepgamez.com
+profitmaximizer.co
+s7.addthis.com
+seen-on-screen.thewhizmarketing.com
+warthunder.com
+www.declk.com
 |http://$popup,script,third-party,xmlhttprequest,domain=nowvideo.sx
 ||*adblock.js
-||615b68cc9c8528e.com/1561207.css
-||615b68cc9c8528e.com/?xref=d3d3LnJhcGlkdmlkZW8uY29t&ip=fb6cf165d8a4fb45f35c59f5c5af0c8f&pbk3=fb8ea1450ff795676f208efa9f4f557e6539918613709530380&r=%2Foc%2Fhan&co=1&rf=1&zoneid=1561207&fs=1&cf=1&sw=1152&sh=864&sah=864&wx=0&wy=0&ww=1152&wh=864&cw=879&wiw=878&wih=494&wfc=2&pl=https%3A%2F%2Fwww.rapidvideo.com%2Fe%2FFPYS6RBRCH%26q%3D720p&drf=https%3A%2F%2Fanimeflv.net%2Fver%2F48639%2Fkakuriyo-no-yadomeshi-1&np=1&pt=0&nb=1&ng=1&ix=1&nw=0$popup
 ||ads.untaptmedia.com/px.gif?ch=2&rn=$domain=experthometips.com
 ||ae1a1e258b8b016.com
 ||ae1a1e258b8b016.com/*
 ||ae1a1e258b8b016.com/1267017.html?q
 ||ae1a1e258b8b016.com^
 ||ae1a1e258b8b016.com^$third-party
+||animeflv.net/*script
+||animeflv.net/assets/animeflv/js/modernizr.js
+||animeflv.net/img/descarga.png
+||animeflv.net/imgs/sorteo.jpg
+||animeflv.net/js/jquery.jsonSuggest-2.min.js
 ||apis.google.com/js/platform.js
 ||bing.com/fd/ls/l?BF=MSJ1&$domain=bing.com
-||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.wikia.com/g00/3_c-6jx78.krf.bnpnf.htr_/c-6RTWJUMJZX77x24myyux3ax2fx2fyuh.lttlqjx78dsinhfynts.htrx2fx78fkjkwfrjx2f6-5-69x2fmyrqx2fhtsyfnsjw.myrqx3fn65h.rfwp.nkwfrj.yduj_$/$/$/$/$?i10c.ua=1
 ||cdn.centwrite.com/Scripts/MediaScripts/p.js
-||cdn.edgecast.steamstatic.com/steam/apps/627270/capsule_184x69.jpg?t=1516225761
 ||cdn.syndication.twimg.com/widgets/followbutton/info.json?callback=__twttr.setFollowersCountAndFollowing&lang=en&screen_names=MediaFire
 ||cdn.taboola.com/*
 ||cdn.taboola.com^$third-party
@@ -318,11 +394,6 @@ zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 ||centwrite.com/71b0020ba78e4c50945a671c48ae8e36
 ||chip.de/unabh_dateien/14039041/tomorrow_focus_chipde_bild-text-kombinationen_50x50_outlet_08aw14.gif
 ||cloudfront.net/abp/hjdebh67699dwnjldw00.js
-||coin-hive.com/lib/coinhive.js
-||coin-hive.com/lib/coinhive.min.js
-||coin-hive.com^$third-party ||jsecoin.com^$third-party
-||coinhive.com/lib/coinhive.js
-||coinhive.com/lib/coinhive.min.js
 ||connect.facebook.net/es_LA/sdk.js
 ||contilla-cdn.s3-eu-west-1.amazonaws.com/img/px.gif?ch=2&rn=*$domain=~wetteronline.de
 ||csc.beap.bc.yahoo.com^
@@ -347,11 +418,9 @@ zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 ||howtoremoveadblock.com^$script
 ||i.imgur.com/0o2Rbsu.png
 ||i.imgur.com/PyCJoo5.jpg
-||i.serves.live/2e2ed2bd-db5a-4c5e-8546-37abb77dac39?zoneid=1561207&campaignid=643246&visitor_id=459374274985$popup
 ||i.ytimg.com/vi/-VlOIWgOLdM/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k92x1L-E1ELSFRqeksziycAppPY
 ||i.ytimg.com/vi/_1C5Kn2TgV0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLACb9ZO2v5moPjncmgYNbuKYbW7Yg
 ||i1266.photobucket.com/albums/jj533/cinestrenostv/close.gif
-||images-ext-1.discordapp.net/external/HWW1Vi-Vp2m7OvWxHeRQcSyNnI2hcOnjYAwXxQoSyo4/https/i.gyazo.com/thumb/1200/a9cc824814f19754990322cb5de6c258-png.jpg?width=169&height=226
 ||imgur.com/0V2xMlp.png$domain=winfuture.de
 ||ixquick.com*px.gif?ch=2&rn=$domain=ixquick.com
 ||jwpltx.com/v1/jwplayer6/ping.gif?h=-74064275&tv=2.6.0&n=2714004788041260&aid=ZJofmESvEeWtiRJtO5t17w&e=e&i=1&ifd=&pv=7.1.4&m=1&d=0&vl=33&t=&pl=453&wd=773&pid=&ps=3&ph=0&ed=0&vp=1&fv=22.0r0&dd=1&po=0&sn=glow&pd=0&pad=&ab=0&ga=0&s=0&r=0&cb=0&cp=0&hls=&st=125&sdk=0&pli=&emi=p2kb9zmb19c9&mt=0&vi=&ap=&mu=https%3A%2F%2Fcontent-na.drive.amazonaws.com%2Fcdproxy%2Ftemplink%2FAUAfRJw0lstpaNhj2gWVP8AA7GO3yV-qIg4gqIr3JSoLAYspN&eb=-1&id=&pu=https%3A%2F%2Fanimeflv.net%2Fembed_izanagi.php%3Fkey%3DzL2ki4u_hbmGoqeDyHOSo399rZSBvZ2biQ%2C%2C&pt=Player
@@ -359,13 +428,10 @@ zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 ||karazoomer.com^$script,domain=streamcloud.eu
 ||kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8?st=5FHFqem6WjlbB3ToofbqQQ&e=1487872791
 ||l.yimg.com/pv/static/misc/sme/abp/b.gif$domain=yahoo.com
-||media.discordapp.net/attachments/374660010527031297/411662301406560257/041fa7af851694476907ed1cce5a9031.jpg?width=169&height=225
 ||mg.adskeeper.co.uk/mghtml/framehtml/c/o/p/openload.co.84753.html$domain=openload.co
 ||mnet-ad.net^
 ||myanimelist.cdn-dena.com/images/membership/banner-paypal.png?v=1
 ||myanimelist.cdn-dena.com/images/membership/banner2.gif?v=1
-||npdbklojsvn.co/gksynglosyqm.js
-||nyaa.unblockall.org/cdn-cgi/apps/head/PxAMfa9Eh9BWOxGhDu7HC7R1RJQ.js
 ||okoads.com^*/ads.gif?ch=1&rn=
 ||openload.co/*license
 ||openload.co/*script
@@ -379,11 +445,8 @@ zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 ||pinturillo2.com/images/image1.jpg
 ||platform.twitter.com/widgets.js
 ||pointoo.de/px.js?ch=2$domain=pointoo.de
-||replainy.co/canCRLzLP/3tp/vSbDmCV/J_Z/DK0/xANHzyISzRNVj/Ab5X
-||replainy.co/p?zoneId=1723609-1723668
 ||s.4cdn.org/image/contest_banners/5df10e817fcac43cfe56a4f00c22d68838d2036b.gif
 ||s.yimg.com/hl/ap/default/140801/px.png?ch=2$domain=yahoo.com
-||s3.amazonaws.com/content.systemrequirementslab.com/cyri/assets/images/drivers-updates.gif
 ||search.1und1.de/s.gif?jsession=c3VjaGUuYWJwMiZ$domain=search.1und1.de
 ||search.1und1.de/stats?section=search.serp.aview&jsession=dmlldz0y$domain=search.1und1.de
 ||search.gmx.net/stats?section=search.serp.aview&jsession=dmlldz0y$domain=search.gmx.net
@@ -391,8 +454,6 @@ zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 ||similarsites.com*px.gif?ch=2&rn=$domain=similarsites.com
 ||smartsearch.de/stats?section=search.serp.aview&jsession=dmlldz0y$domain=smartsearch.de
 ||somoskudasai.com/latest_posts.php
-||sslenable.review/o00o1.js
-||ssraju3n.com/d9/f5/14/d9f5149e1c0ece5238b6be9745147b55.js
 ||st.bebi.com/bebi_v3.js
 ||startpage.com*px.gif?ch=2&rn=$domain=startpage.com
 ||static.aaplat.net/images/pixel.gif?ch=2$domain=aaplat.net|ione3preprod.com|hellobeautiful.com|globalgrind.com|newsone.com|theurbandaily.com|blackamericaweb.com|stuffflypeoplelike.com|nybooks.com|coolmath-games.com
@@ -424,7 +485,6 @@ zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 ||taboola.com^
 ||topsite.com*px.gif?ch=2&rn=$domain=topsite.com
 ||tumblr.com/assets/scripts/tumblr/dashboard/px.js?ch=2$domain=tumblr.com
-||urldelivery.com/watch.1054045031641?key=935a0de737cc3ab178fe489366ad46e8&kw=%5B%22urlcloud%22%5D&refer=https%3A%2F%2Furlcloud.us%2FayCP7a&tz=2&dev=r&res=4.31&uuid=
 ||viglink.com/images/pixel.gif?ch=2$third-party
 ||whos.amung.us/swidget/lk1qwknchqy0.gif
 ||xml.*/click?$popup
@@ -433,3 +493,25 @@ zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
 ||yimg.com/gemini/pr/video_$domain=yahoo.com
 ||yourupload.com/rotate/
 ||zergnet.com/zerg.js$script,domain=huffingtonpost.com
+coin-hive.com/lib/coinhive.min.js
+coin-hive.com/lib/coinhive*
+||coin-hive.com/lib/coinhive.min.js
+||coin-hive.com/lib/coinhive.js
+||coinhive.com/lib/coinhive.min.js
+||coinhive.com/lib/coinhive.js
+||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.wikia.com/g00/3_c-6jx78.krf.bnpnf.htr_/c-6RTWJUMJZX77x24myyux3ax2fx2fyuh.lttlqjx78dsinhfynts.htrx2fx78fkjkwfrjx2f6-5-69x2fmyrqx2fhtsyfnsjw.myrqx3fn65h.rfwp.nkwfrj.yduj_$/$/$/$/$?i10c.ua=1
+||ssraju3n.com/d9/f5/14/d9f5149e1c0ece5238b6be9745147b55.js
+||replainy.co/p?zoneId=1723609-1723668
+||nyaa.unblockall.org/cdn-cgi/apps/head/PxAMfa9Eh9BWOxGhDu7HC7R1RJQ.js
+||sslenable.review/o00o1.js
+||replainy.co/canCRLzLP/3tp/vSbDmCV/J_Z/DK0/xANHzyISzRNVj/Ab5X
+||npdbklojsvn.co/gksynglosyqm.js
+||media.discordapp.net/attachments/374660010527031297/411662301406560257/041fa7af851694476907ed1cce5a9031.jpg?width=169&height=225
+||images-ext-1.discordapp.net/external/HWW1Vi-Vp2m7OvWxHeRQcSyNnI2hcOnjYAwXxQoSyo4/https/i.gyazo.com/thumb/1200/a9cc824814f19754990322cb5de6c258-png.jpg?width=169&height=226
+||cdn.edgecast.steamstatic.com/steam/apps/627270/capsule_184x69.jpg?t=1516225761
+||s3.amazonaws.com/content.systemrequirementslab.com/cyri/assets/images/drivers-updates.gif
+||615b68cc9c8528e.com/1561207.css
+||615b68cc9c8528e.com/?xref=d3d3LnJhcGlkdmlkZW8uY29t&ip=fb6cf165d8a4fb45f35c59f5c5af0c8f&pbk3=fb8ea1450ff795676f208efa9f4f557e6539918613709530380&r=%2Foc%2Fhan&co=1&rf=1&zoneid=1561207&fs=1&cf=1&sw=1152&sh=864&sah=864&wx=0&wy=0&ww=1152&wh=864&cw=879&wiw=878&wih=494&wfc=2&pl=https%3A%2F%2Fwww.rapidvideo.com%2Fe%2FFPYS6RBRCH%26q%3D720p&drf=https%3A%2F%2Fanimeflv.net%2Fver%2F48639%2Fkakuriyo-no-yadomeshi-1&np=1&pt=0&nb=1&ng=1&ix=1&nw=0$popup
+||i.serves.live/2e2ed2bd-db5a-4c5e-8546-37abb77dac39?zoneid=1561207&campaignid=643246&visitor_id=459374274985$popup
+||urldelivery.com/watch.1054045031641?key=935a0de737cc3ab178fe489366ad46e8&kw=%5B%22urlcloud%22%5D&refer=https%3A%2F%2Furlcloud.us%2FayCP7a&tz=2&dev=r&res=4.31&uuid=
+! Mining ||coin-hive.com^$third-party ||jsecoin.com^$third-party
