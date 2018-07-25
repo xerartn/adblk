@@ -251,14 +251,10 @@ tweaktown.com###pcufbs
 tweaktown.com##.jewibr
 tweaktown.com##.kavnjbk
 tweaktown.com##.veekesmf
-twitter.com###div.module.wtf-module.js-wtf-module.roaming-module.has-content
-twitter.com###stream-item-recap_entry-817745194871177218
 twitter.com##-original-tweet.promoted-tweet
 twitter.com##.ProfileUserList.ProfileUserList--socialProof
 twitter.com##.promoted-tweet
 twitter.com##.promoted-tweet.has-cards.has-content.presented.scribed
-twitter.com##.tweet.js-stream-tweet.js-actionable-tweet.js-profile-popup-actionable.original-tweet.js-original-tweet.promoted-tweet.has-cards.has-content.presented.scribed
-twitter.com##div.module.wtf-module.js-wtf-module.roaming-module.has-content
 unfassbar.es##.top_banner
 uploaded.net###pico-3
 uploaded.net##.hg_container-area
