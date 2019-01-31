@@ -101,6 +101,542 @@ es.ninemanga.com##body > div.mobojscontainer > div:nth-child(1) > table > tbody 
 es.ninemanga.com##div[style="position: absolute; top: 1px; right: 1px; width: 8px; height: 8px; line-height: 8px;"]
 es.wikipedia.org###frb-inline
 es.wikipedia.org##.frb
+###adb-enabled
+###adbl
+###ap
+###closeap
+###divPanel
+##.abp_ob_exist
+##.abp_ob_wl
+##script[src="http://www.adnetworkperformance.com/*"]
+3djuegos.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
+3djuegos.com##.OUTBRAIN > .SF_1 > .ob-first .ob-p
+750g.com##.OUTBRAIN > .CRAB_6 > .ob-first .ob-p
+allocine.fr##.OUTBRAIN > .VR_1
+androidfact.com##.entry-content > DIV[style="float:left;margin-right:5px;"]:first-child
+animeid.io##iframe[style="width: 100%; margin: 0px auto; overflow: hidden; opacity: 1; transition: height 0.3s linear, opacity 0.3s ease-in; visibility: visible !important; max-height: none !important; border: none; display: block; height: 238px;"]
+animeid.tv##.b
+aol.com##.m-3rd-row-below-article__article
+autosport.com##.OUTBRAIN > .SB_2 > .ob-first .ob-p
+avito.ru###ads_wl
+avito.ru##SCRIPT + #ads_ldr_top
+bestblackfriday.com##.adsense-midtext
+betterdocs.net###Be07CtDzmxTqmdkHNplhUTlt9cATaC
+betterdocs.net###L1tFklznIfRpbb3B8OKBna9K3adGBU
+betterdocs.net###UjecYoMJA8Y2G2M14M6SqmTeCOITj3
+betterdocs.net##ad-center
+bleacherreport.com##.OUTBRAIN > .CRAB_2
+blog.seattlepi.com,blog.beaumontenterprise.com,blog.timesunion.com,blog.mysanantonio.com,blog.chron.com##.OUTBRAIN > .AR_16 > .ob-last > .ob-widget-items-container
+blog.seattlepi.com,blog.chron.com,blog.mysanantonio.com##.OUTBRAIN > .AR_15 > .ob-first > .ob-widget-items-container
+blog.timesunion.com##.OUTBRAIN > .SB_7 > .ob-first > .ob-widget-items-container
+bradsknutson.com###social-media
+buzja.com###taboola-mid-article-bulk
+caffeinamagazine.it###taboola-below-title-thumbnails
+cageek.com.mx##.adsbygoogle[data-ad-slot="1758118366"]
+calcalist.co.il##.OUTBRAIN > .ob-widget.ob-strip-layout.CRAB_7
+cbanque.com##.adsbygoogle[data-ad-slot="6045950492"]
+cbssports.com###skin_ad_call
+challenges.fr##.OUTBRAIN > .AR_1 > .ob_dual_left .ob-p
+chip.de##DIV[id^="contentad-adX-"]
+chron.com##.article-footer #outbrain_widget_1
+chron.com##.OUTBRAIN > .AR_3 > .ob-first > .ob-widget-items-container
+cias3dsbackups.com###g207
+classroom.synonym.com##.article-text > .summary + .text-ad
+click2houston.com,clickondetroit.com,news4jax.com,local10.com,clickorlando.com##.OUTBRAIN > .AR_4 > .ob-first .ob-p
+cnn.com##.OUTBRAIN > .AR_13 > .ob_dual_left
+cookinglight.com,coastalliving.com,sunset.com##.OUTBRAIN > .AR_4 .ob-p
+cookinglight.com,instyle.com##.OUTBRAIN > .AR_2 .ob-p
+courrierinternational.com##.OUTBRAIN > .AR_11 > .ob-widget-section.ob-last
+dailycaller.com##.OUTBRAIN > .ob-widget.ob-strip-layout.CRAB_2
+dailycaller.com##.OUTBRAIN > .ob-widget.ob-strip-layout.CRAB_4
+dailycaller.com,news8000.com,kxly.com,channel3000.com##.OUTBRAIN > .AR_2 > .ob-widget-section.ob-first
+dailyundercover.com##.adwrapper > .adtext
+dailyundercover.com##.adwrapper > DIV[style="height:250px; width:300px; overflow:hidden"]
+dance-charts.de###advert_superbanner
+dance-charts.de##.item-page > #gadscontent .adsbygoogle
+deviantart.com##.banner-wrap
+deviantart.com##.block-notice
+deviantart.com##.mc-ad-chrome.atf-top-728x90
+distractify.com,salon.com###outbrain_widget_0
+dohack.org##.blocker-notice
+dohack.org##.blocker-overlay
+doubleclick.net##A[href^="http://adclick.g.doubleclick.net/"][href*="%3Dad-prof-"]
+doubleclick.net##A[href^="http://adclick.g.doubleclick.net/"][href*="doubleclick.net/ddm/"]
+doubleclick.net##A[href^="https://adclick.g.doubleclick.net/"][href*="%3Dad-prof-"]
+doubleclick.net##A[href^="https://adclick.g.doubleclick.net/"][href*="doubleclick.net/ddm/"]
+dummies.com##.OUTBRAIN > .SL_2 > .ob-first .ob-p
+en.wikipedia.org###frb-inline
+en.wikipedia.org##.frb
+es.aliexpress.com##.newuser-container
+es.aliexpress.com##.ui-mask
+es.aliexpress.com##.ui-window.ui-window-normal.ui-window-transition.ui-newuser-layer-dialog
+es.ninemanga.com##.mobojsInner
+es.ninemanga.com##body > div.mobojscontainer > div:nth-child(1) > table > tbody > tr > td:nth-child(1)
+es.ninemanga.com##body > div.mobojscontainer > div:nth-child(1) > table > tbody > tr > td:nth-child(3)
+es.ninemanga.com##div[style="position: absolute; top: 1px; right: 1px; width: 8px; height: 8px; line-height: 8px;"]
+es.wikipedia.org###frb-inline
+es.wikipedia.org##.frb
+espn.in##.OUTBRAIN > .ob-widget.ob-strip-layout.CRAB_7
+essence.com##.OUTBRAIN > .SB_1 > .ob-first .ob-p
+essence.com##.OUTBRAIN > .SB_2 > .ob-first .ob-p
+fabulous55.com###wbounce-modal
+facebook.com###u_0_c
+facebook.com##._5hn6
+fansided.com##.OUTBRAIN > .ob-widget.ob-strip-layout.AR_8
+fansided.com##.OUTBRAIN > .SB_3 > .ob-first .ob-p
+fansided.com##.OUTBRAIN > .SB_4 > .ob-first .ob-p
+filehippo.com###program-header + #ad-slot-1
+filehippo.com##.OUTBRAIN > .AR_2
+football365.com##.OUTBRAIN > .CRAB_3 > .ob-first .ob-p
+football365.com##.OUTBRAIN > .SL_1 > .ob-first .ob-p
+forums.salary.sg###taboola-mid-forum-thumbnails
+fox4news.com###taboola-mid-article-thumbnails-1
+foxnews.com##.OUTBRAIN > .ob_dual_container.CR_2 > .ob_dual_left > .obpd_header + UL
+fxp.co.il##.OUTBRAIN > .SL_1 .ob-p
+gazeta.pl###div-gpt-ad-001-TOPBOARD-0
+gearshout.net###advads_ad_widget-3
+heise.de###bannerzone [href^="http://pubads.g.doubleclick.net/"] > IMG
+helpster.de##.article-content DIV[data-engagement="\7b \"category\":\"click-advertisement\",\"action\":\"adsense\",\"label\":\"medium\"\7d "]
+helpster.de##.article-header > DIV[data-engagement="\7b \"category\":\"click-advertisement\",\"action\":\"adsense\",\"label\":\"top\"\7d "]
+hipertextual.com##.banner:not(.abp)
+huffingtonpost.fr###modulous_right_rail_recirc > .OUTBRAIN > .ob-widget .ob-p
+huffingtonpost.fr##ARTICLE > #outbrain_widget_4
+huffingtonpost.fr,people.com,stamfordadvocate.com,timesunion.com,wfxg.com,wafb.com,tucsonnewsnow.com,cleveland19.com,kplctv.com,ktre.com,wect.com,fox8live.com,kcbd.com,ksla.com,wbtv.com,wlox.com,wtoc.com,wsfa.com,live5news.com,hawaiinewsnow.com,14news.com,wmcactionnews5.com,walb.com,waff.com,kfvs12.com,foxbusiness.com,msnewsnow.com,kltv.com,wistv.com,nbc12.com,wtvm.com,wtol.com,fox19.com,wmbfnews.com,wdam.com###outbrain_widget_1 > .ob-widget > .ob-widget-section.ob-first
+indianexpress.com##.OUTBRAIN > .SL_1
+jkanime.net##.feed_box
+jkanime.net##.publibox
+kktv.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
+lacuevadeguns.com###fade
+lacuevadeguns.com###light
+lacuevadeguns.com##.black_overlay
+lacuevadeguns.com##.white_content
+lefigaro.fr##.ob_container > .ob_container_recs > A:nth-child(n+5)
+lemonde.fr##.OUTBRAIN > .SF_1 .ob-widget-items-container > .ob-p
+lesinrocks.com##.OUTBRAIN > .AR_1 > .ob-widget-section.ob-last
+linkedin.com###inbox-ads-module
+linkedin.com###pymk_cards_container > #ad-unit
+linkedin.com###right-rail > #right-ad-container > #ad-contacts-pymk-fs-2
+linkedin.com##IMG.img_ad[src^="https://media.licdn.com/mpr/mpr/"]
+loksatta.com##.OUTBRAIN > .SL_1 > .ob-first .ob-p
+mega.nz##.ads-left-block
+mega.nz##.ads-right-block
+mega.nz##.products-slides-block.products-laptop.active
+meilleurvendeur.com##.soarad
+mmorpg.org.pl###k6kssqjp3x8jg7t4kj4i
+money.cnn.com##.OUTBRAIN > .AR_6 > .ob_dual_left
+money.cnn.com##.OUTBRAIN > .SB_3
+msn.com##.swipenav .ob-msn
+msn.com##DIV[id^="tb_homePage_carousel_"] DIV[id^="internal_trc_"]
+myanimelist.net###content > div.left-column.pt12 > article:nth-child(4) > div > div
+myanimelist.net###content > table > tbody > tr > td.borderClass > div > div.clearfix.mauto.mt16
+myanimelist.net###content > table > tbody > tr > td:nth-child(2) > div.mauto.clearfix.pt24
+myanimelist.net##._unit
+myanimelist.net##.fb-page
+myanimelist.net##.widget right_top_ad right
+myanimelist.net##.widget.right_top_ad.right
+myanimelist.net##div[style="padding: 20px 0 20px 40px; float: left; position: relative; z-index: 1;"]
+myanimelist.net##div[style="padding: 20px 0px;display: inline-block;"]
+myanimelist.net##div[style="padding: 20px 40px 20px 0; float: right; position: relative;"]
+myanimelist.net##div[style="padding: 20px 40px;display: inline-block;"]
+myanimelist.net##div[style="padding:16px 0px 0px 0px;"]
+myanimelist.net##table[style="width:100%;height:100%;text-align:center;border-collapse:collapse;"]
+myanimelist.net##table[style="width:100%;height:100%;text-align:center;border-collapse:collapse;margin:auto;"]
+myanimelist.net##table[style="width:calc(100% - 2px);height:100%;text-align:center;border-collapse:collapse;border: #ebebeb 1px solid;"]
+myanimelist.net##table[style="width:calc(100% - 2px);height:100%;text-align:center;border-collapse:collapse;border: #ebebeb 1px solid;margin:auto;"]
+myanimelist.net##td[style="height:20%;background:#ebebeb;padding:8px 0px;color:#545454;font-size:11px;"]
+myanimelist.net##td[style="height:30%;background:#1E439B;color:#fff;font-size:14px;"]
+myanimelist.net##td[style="height:40%;background:#1E439B;color:#fff;font-size:16px;line-height:200%;"]
+myanimelist.net##td[style="height:40%;background:#4f74c8;color:#f6f6f6;font-size:14px;line-height:170%;"]
+myanimelist.net##td[style="height:50%;background:#4f74c8;color:#f6f6f6;font-size:14px;"]
+myhomeideas.com##.OUTBRAIN > .SB_3 .ob-p
+myplainview.com,yourconroenews.com##.OUTBRAIN > .AR_3 > .ob-first .ob-p
+myrecipes.com##.OUTBRAIN > .AR_6 .ob-p
+mysanantonio.com##.OUTBRAIN > .AR_1 > .ob-first > .ob-widget-items-container
+netdoktor.de##.boxContent > .moduleGoogleAdsense.cf[style="padding: 0 0 0 0; margin-top: 20px;"]
+nightearth.com###adblockdivswitch
+noticiariodirecto.com##.sidebar-widget.widget_text
+noticiasaominuto.com.br##.taboolaLightbox
+nouvelobs.com##.OUTBRAIN > .AR_6 > .ob_dual_left
+nouvelobs.com##.OUTBRAIN > .SB_2 .ob-p
+opendi.at,opendi.de,opendi.ch,opendi.be,opendi.nl,opendi.es###container > DIV[style="position: absolute; top: 115px; margin-left: 810px;"]
+openload.co##.exo-native-widget-header
+openload.co##.exo-native-widget-item
+opensubtitles.org###fadeSub
+opensubtitles.org###lightSub
+opensubtitles.org##.black_overlay
+opensubtitles.org##.white_content
+outlook.live.com##._2qPmszDwBfYpF7PO9Mn3KN
+outlook.live.com##.stQe7wknhnXCAAroiyvBY
+peopleenespanol.com##.OUTBRAIN > .SB_1 .ob-p
+pinterest.se##div[style="background: rgba(0, 0, 0, 0.85098); transition: height 0.5s cubic-bezier(0.26, 0.87, 0.74, 0.93); backface-visibility: hidden; bottom: 0px; color: rgb(255, 255, 255); height: 100%; position: fixed; width: 100%;"]
+pinterest.se##div[style="min-height: 400px; padding: 20px 10px;"]
+practicalmotorhome.com,practicalcaravan.com###tlc-sidebar > #outbrain_widget_1
+proceso.com.mx##.trc_rbox.thumbnails-b
+reddit.com###adblock-test
+riviera24.it##.skinLink
+rossdraws.deviantart.com##.banner-wrap
+salon.com##.OUTBRAIN + * > .AR_2 > .ob-first .ob-p
+salon.com##.OUTBRAIN > .ob-widget.ob-strip-layout.AR_3
+screenrant.com###js-popup-blocker
+screenrant.com##.w-lightbox.light-theme.lb-ad-blocker
+search.avira.net##.bottom-ad-zone:not(#bottom-ad-zone)
+search.avira.net##.right-ad-zone
+search.avira.net##.top-ad-zone:not(#top-ad-zone)
+seekingalpha.com###article-right-slot-1
+sensacine.com##.OUTBRAIN > .CRAB_2
+sensacine.com##.OUTBRAIN > .CRAB_3
+seoslim.ru##.post > #yandex1
+sfgate.com###outbrain_widget_1 > .CR_1
+sfgate.com##.OUTBRAIN > .AR_9 > .ob-first > .ob-widget-items-container
+sfgate.com##.OUTBRAIN > .SB_3 .ob_container_recs
+shink.in##.alert.alert-danger
+slate.com##.OUTBRAIN > .AR_17
+slate.com##.rr-block > .outbrain
+spotsify.com##.gaw-prepost > .adsbygoogle
+stamfordadvocate.com,seattlepi.com,greenwichtime.com,newstimes.com,beaumontenterprise.com,timesunion.com,mysanantonio.com,chron.com##.OUTBRAIN > .AR_6 > .ob-first > .ob-widget-items-container
+stamfordadvocate.com,sfgate.com,seattlepi.com,greenwichtime.com,newstimes.com,beaumontenterprise.com,timesunion.com,ctpost.com,ctnews.com##.OUTBRAIN > DIV[class*="AR_"] > .ob_dual_left
+standardnews.com,itsthevibe.com##.execphpwidget
+streamcloud.eu###footer
+streamcloud.pro###saltante
+streamcloud.pro##.alock
+streamcloud.pro##.header
+streamcloud.pro##body > footer
+streamin.to###\34 vHbo33QH4sCuJwDxV14HxjBvCD7X1
+streamin.to###aFMElRTUlhAOb0qxjZjCHpo02urTnE
+streamin.to##a[style="position: fixed; top:0; left:0; width:100%; height:100%; z-index: 9999; display: block;"]
+t-online.de###Tsib > DIV[onfocus="A('mp=TopPartner')"]
+telerama.fr,lesinrocks.com###outbrain_widget_3
+thedirty.com##.latest-iframe
+thehindu.com,thehindubusinessline.com##.OUTBRAIN > .SB_1
+thepiratedownload.com###modal
+thepiratedownload.com##.modal-bg
+thepiratedownload.com##.modal-container
+thewindowsclub.com##._7Oxjxwxj-1-
+timesunion.com##.OUTBRAIN > .SB_1 > .ob-first > .ob-widget-items-container
+top10remedioscaseros.com###text-29
+top10remedioscaseros.com##.widget.widget_text
+topdiez.online###ouibounce-modal
+travelandleisure.com##.OUTBRAIN > .AR_10 > .ob-widget-section.ob-first
+traveltips.usatoday.com##.adsbygoogle[data-ad-slot="4479571544"]
+tripinfo.com###rightbanner
+trustedreviews.com##.tr-reviews-affiliate-list-item
+tweaktown.com###pcufbs
+tweaktown.com##.jewibr
+tweaktown.com##.kavnjbk
+tweaktown.com##.veekesmf
+unfassbar.es##.top_banner
+uploaded.net###pico-3
+uploaded.net##.hg_container-area
+uploaded.net##.pico-content
+uploaded.net##.pico-overlay
+usasupreme.com###revslider
+ver-pelis.me##a[style="width:100%; height:100%; display:block!important; position:fixed; top:0px; left:0px;cursor: pointer;z-index: 2147483647;"]
+wg-gesucht.de##DIV[id^="div-gpt-ad-"][style^="margin: 11px "]
+widgets.outbrain.com##.abp_ob_exist
+widgets.outbrain.com##.abp_ob_wl
+widgets.outbrain.com##.AD_area
+widgets.outbrain.com##.ADBox
+widgets.outbrain.com##.Ads_4
+widgets.outbrain.com##.AdsRec
+winfuture.de###news_content > .o_hidden > .singleblock_news_top
+winfuture.de###news_content > DIV[style="width:424px;min-height:95px;background-color:white;margin-bottom:10px;"]
+winfuture.de###news_content DIV[style="width:424px;min-height:200px;background-color:white;margin-bottom:10px;"]
+winfuture.de##.hp_latest > .o_hidden > DIV[class^="singleblock_homepage_slot"]
+winfuture.de##.SL_1 A[data-redirect^="http://paid.outbrain.com/network/redir?"]
+winfuture.de##.wf_gcsi[style="width:660px;min-height:200px;background-color:white;margin-bottom:10px;"]
+winfuture.de##.ws_singleAdNews
+xiaomitips.com##.onp-sl-group.onp-sl-social-buttons.onp-sl-first-group.onp-sl-single-group.onp-sl-group-index-1.onp-sl-has-counters.onp-sl-horizontal.onp-sl-lang-en_US
+xiaomitips.com##.onp-sl-overlap-background
+xiaomitips.com##.onp-sl-overlap-box.onp-sl-transparence-mode.onp-sl-secrets-theme
+yahoo.com##.ysab
+yourupload.com###ad_block_0
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-covering-shadow-top
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-that.ytp-ce-bottom-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-bottom-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-playlist.ytp-ce-top-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-bottom-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-bottom-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-video.ytp-ce-top-right-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-website.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show
+youtube.com##.ytp-ce-element.ytp-ce-website.ytp-ce-top-left-quad.ytp-ce-size-640.ytp-ce-element-show.ytp-ce-element-hover.ytp-ce-force-expand
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-ce-expanding-overlay
+youtube.com##.ytp-ce-expanding-overlay-background
+youtubeplaylist-mp3.com##.share-popup
+youtubeplaylist-mp3.com##.side-strip
+zerohedge.com##.OUTBRAIN > .AR_2 > .ob-first .ob-p
+getrom.net###fade
+getrom.net##.black_overlay
+getrom.net###_bd
+getrom.net##.sm_content
+twitter.com##.promoted-tweet-heading
+lookism.wikia.com###google_ads_iframe_\/5441\/wka\.ent\/_not_a_top1k_wiki\/\/article\/gpt\/TOP_RIGHT_BOXAD_0
+lookism.wikia.com###google_ads_iframe_
+lookism.wikia.com###google_ads_iframe
+lookism.wikia.com###google_ads
+comunidad.movistar.es###csi-modal-inicial-bg
+comunidad.movistar.es##.csi-modal
+animeid.io##.rRCcV1bldp
+animeid.io##.o371XZ6x0S7zA
+binbox.io###paste-frame
+binbox.io##iframe[src="about:blank"]
+gyazo.com##.gy-icon-close
+gyazo.com##.btn.btn-close-ad
+gyazo.com##.upper-ad-box
+oload.site##.exo-native-widget-header
+oload.site##.exo-native-widget-item-image
+oload.site##.exo-native-widget-item-title
+wish.com###login-modal-overlay
+wish.com##.simplemodal-overlay
+wish.com##.column
+wish.com##.cronkite.windows-download-button
+wish.com###new-login-modal
+wish.com##.simplemodal-wrap
+wish.com###simplemodal-container
+wish.com##.simplemodal-container
+systemrequirementslab.com##.driveLinkClick
+www6.mangafreak.net##.g8cv9oaPKclR
+urlcloud.us##table[style="display:inline-block;"]
+oload.win##.mgbox
+mangarock.com##._3CfcU
+atresplayer.com###sas_7826407_iframe
+nihongo-pro.com##.screen
+nihongo-pro.com##.ablkAlert
+twitter.com##.dashboard-right
+oload.download##.mgbox
+streamcloud.eu##.alert-message.warning
+oload.download##.mgheader
+deviantart.com##.ad-container.small
+twitter.com###stream-item-who_to_follow_entry-1033723966144299007
+twitter.com##.WtfLargeCarouselStreamItem.js-stream-item.stream-item.js-dedupe-wtf-sidebar.js-no-dedup.DismissibleModule.js-has-navigable-stream.no-header-background-module.separated-module
+windowscentral.com##.f-NJD1R8-1-._2nq-YCkI-1-
+animeflv.net###XpndCn > div.CpCnB > div.NtxtCp.WdgtCn.fa-play
+animeflv.net###XpndCn > div.CpCnB > div:nth-child(5)
+mangarock.com##._3_XVY._1BvnL
+mangarock.com##._3frpA
+mangarock.com##.UuD8-
+mangarock.com##._3NGlH
+animeflv.net###XpndCn > div.CpCnB > div:nth-child(4)
+animeflv.net##.kudasai
+animeflv.net##.ListSocial.BFixed
+animeflv.net##.Login
+animeflv.net##.Footer
+animeflv.net##.mgbox
+gamesradar.com###agqbgdyhjruopwisqxbu
+gamesradar.com##.amnkdlum
+gamesradar.com##.zhruuaqhj
+oload.fun##.mghead
+oload.fun##.mgbox
+@@||dinostream.pw/channel.php?file=105816&width=650&height=400&autostart=true
+.info/*==|$popup,third-party
+/abp-detection.js?ch=2$domain=linkedin.com
+/px.gif?ch=2&rn=$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAL/3/SrV7P8AsTHMFSpPmYbyv2PkACHwmG9Z+1IFZq3vA54IN7pQcGnhgNo+8SN9r/KtUWCb9OPqTfWM1N4w/EUCAwEAAQ
+/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAJRmzcpTevQqkWn6dJuX/N/Hxl7YxbOwy8+73ijqYSQEN+WGxrruAKtZtliWC86+ewQ0msW1W8psOFL/b00zWqsCAwEAAQ
+/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBAKX74ixpzVyXbJprcLfbH4psP4+L2entqri0lzh6pkAaXLPIcclv6DQBeJJjGFWrBIF6QMyFwXT5CCRyjS2penECAwEAAQ
+/px.js?ch=2$sitekey=MFwwDQYJKoZIhvcNAQEBBQADSwAwSAJBALo4A9ch0h+1WaF7eiREQsF8ZSdjSPKx9KkKjCqabhCJSzV17noE3IU0F05CJ672CxyFRxdONAgr69GDBpn7MRECAwEAAQ
+ads.ad4game.com
+ae1a1e258b8b016.com
+Amazon.comads(https://adblockplus.org/forum/viewtopic.php?p=142870#p142870)
+body>div.Wrapper>div>div>div.BX.Row.BFluid.Sp20>main>ul.ListEpisodios.AX.Rows.A06.C04.D03
+data:text/html;base64$popup
+deviantart.com/newest
+go.oclasrv.com
+gr8musik.com
+hotelscombined.es
+http://ads.pubmatic.com/*
+http://blockadblock.com
+http://www.teatroporno.com/
+https://coin-hive.com/lib/coinhive.min.js
+iforex.es
+join.pro-gaming-world.com/
+musikzoo.com
+onclkds.com
+one1gameplay.com
+one1gameplay.com/
+pepgamez.com
+profitmaximizer.co
+s7.addthis.com
+seen-on-screen.thewhizmarketing.com
+warthunder.com
+www.declk.com
+|http://$popup,script,third-party,xmlhttprequest,domain=nowvideo.sx
+||*adblock.js
+||ads.untaptmedia.com/px.gif?ch=2&rn=$domain=experthometips.com
+||ae1a1e258b8b016.com
+||ae1a1e258b8b016.com/*
+||ae1a1e258b8b016.com/1267017.html?q
+||ae1a1e258b8b016.com^
+||ae1a1e258b8b016.com^$third-party
+||animeflv.net/*script
+||animeflv.net/assets/animeflv/js/modernizr.js
+||animeflv.net/img/descarga.png
+||animeflv.net/imgs/sorteo.jpg
+||animeflv.net/js/jquery.jsonSuggest-2.min.js
+||apis.google.com/js/platform.js
+||bing.com/fd/ls/l?BF=MSJ1&$domain=bing.com
+||cdn.centwrite.com/Scripts/MediaScripts/p.js
+||cdn.syndication.twimg.com/widgets/followbutton/info.json?callback=__twttr.setFollowersCountAndFollowing&lang=en&screen_names=MediaFire
+||cdn.taboola.com/*
+||cdn.taboola.com^$third-party
+||centwrite.com/-120/71b0020b-a78e-4c50-945a-671c48ae8e36/23492/async/null/123/null/true/60/3/1533/1061/null/1152x864/anime%20online%2C%20anime%20movil/Tag.a1b
+||centwrite.com/71b0020ba78e4c50945a671c48ae8e36
+||chip.de/unabh_dateien/14039041/tomorrow_focus_chipde_bild-text-kombinationen_50x50_outlet_08aw14.gif
+||cloudfront.net/abp/hjdebh67699dwnjldw00.js
+||connect.facebook.net/es_LA/sdk.js
+||contilla-cdn.s3-eu-west-1.amazonaws.com/img/px.gif?ch=2&rn=*$domain=~wetteronline.de
+||csc.beap.bc.yahoo.com^
+||dailymotion.com/embed/video/x32pib7?foreground=FFFFFF&highlight=0072bc&background=222222&autoplay=1
+||delivery.adrecover.com/block.jpg$domain=allindiaroundup.com|alltechbuzz.net|bloggersarena.com|naukri.com|sportskeeda.com|taxguru.in|santabanta.com|subscene.com|sinembargo.mx|dinamani.com|thehindu.com|indiatvnews.com
+||dianomi.com/partner/abp/px.gif?ch=2&rn=$domain=dianomi.com
+||facebook.com/connect/ping?client_id=124578887583575&domain=www.mediafire.com&origin=1&redirect_uri=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F1FegrZjPbq3.js%3Fversion%3D42%23cb%3Df3ea7ef789ec79c%26domain%3Dwww.mediafire.com%26origin%3Dhttp%253A%252F%252Fwww.mediafire.com%252Ff6c2bc78723bfc%26relation%3Dparent&response_type=token%2Csigned_request%2Ccode&sdk=joey
+||facebook.com/plugins/comments.php?api_key=133687500123077&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%
+||facebook.com/plugins/comments.php?api_key=133687500123077&channel_url=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2FuN4_cXtJDGb.js%3Fversion%3D42%23cb%3Df3741c2068bc4%26domain%3Danimeflv.net%26origin%3Dhttp%253A%252F%252Fanimeflv.net%252Ff5c5944fec3d04%26relation%3Dparent.parent&href=http%3A%2F%2Fanimeflv.net%2Fver%2Fkamisama-hajimemashita-kako-hen-4.html&locale=es_LA&numposts=15&sdk=joey&version=v2.3&width=1000
+||facebook.com/plugins/like.php?app_id=124578887583575&channel=http%3A%2F%2Fstaticxx.facebook.com%2Fconnect%2Fxd_arbiter%2Fr%2F1FegrZjPbq3.js%3Fversion%3D42%23cb%3Df30abae21ac4324%26domain%3Dwww.mediafire.com%26origin%3Dhttp%253A%252F%252Fwww.mediafire.com%252Ff6c2bc78723bfc%26relation%3Dparent.parent&container_width=0&href=http%3A%2F%2Fwww.facebook.com%2FMediaFire&layout=button_count&locale=en_US&sdk=joey&send=false&show_faces=false&width=211
+||facebook.com/rsrc.php/v3/y1/r/LVx-xkvaJ0b.png
+||facebook.com/rsrc.php/v3ibIg4/yC/l/en_US/7k-ideP5XzC.js
+||gekko.spiceworks.com/px.js?ch=2
+||geo.yahoo.com/p?AB_TYPE=b$domain=yahoo.com
+||go.oclasrv.com/*
+||go.oclasrv.com^$third-party
+||goo.gl/24KBr
+||goo.gl/OrxrZw
+||google-analytics.com/ga.js
+||heise.de/avw-bin/ivw/CP/difftest/casey$domain=heise.de
+||hipertextual.com/wp-content/themes/*/js/xpx.js?ch=2$domain=hipertextual.com
+||howtoremoveadblock.com^$script
+||i.imgur.com/0o2Rbsu.png
+||i.imgur.com/PyCJoo5.jpg
+||i.ytimg.com/vi/-VlOIWgOLdM/hqdefault.jpg?custom=true&w=168&h=94&stc=true&jpg444=true&jpgq=90&sp=68&sigh=k92x1L-E1ELSFRqeksziycAppPY
+||i.ytimg.com/vi/_1C5Kn2TgV0/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLACb9ZO2v5moPjncmgYNbuKYbW7Yg
+||i1266.photobucket.com/albums/jj533/cinestrenostv/close.gif
+||imgur.com/0V2xMlp.png$domain=winfuture.de
+||ixquick.com*px.gif?ch=2&rn=$domain=ixquick.com
+||jwpltx.com/v1/jwplayer6/ping.gif?h=-74064275&tv=2.6.0&n=2714004788041260&aid=ZJofmESvEeWtiRJtO5t17w&e=e&i=1&ifd=&pv=7.1.4&m=1&d=0&vl=33&t=&pl=453&wd=773&pid=&ps=3&ph=0&ed=0&vp=1&fv=22.0r0&dd=1&po=0&sn=glow&pd=0&pad=&ab=0&ga=0&s=0&r=0&cb=0&cp=0&hls=&st=125&sdk=0&pli=&emi=p2kb9zmb19c9&mt=0&vi=&ap=&mu=https%3A%2F%2Fcontent-na.drive.amazonaws.com%2Fcdproxy%2Ftemplink%2FAUAfRJw0lstpaNhj2gWVP8AA7GO3yV-qIg4gqIr3JSoLAYspN&eb=-1&id=&pu=https%3A%2F%2Fanimeflv.net%2Fembed_izanagi.php%3Fkey%3DzL2ki4u_hbmGoqeDyHOSo399rZSBvZ2biQ%2C%2C&pt=Player
+||karazoomer.com^$popup
+||karazoomer.com^$script,domain=streamcloud.eu
+||kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ligarincon_a539aod/chunklist.m3u8?st=5FHFqem6WjlbB3ToofbqQQ&e=1487872791
+||l.yimg.com/pv/static/misc/sme/abp/b.gif$domain=yahoo.com
+||mg.adskeeper.co.uk/mghtml/framehtml/c/o/p/openload.co.84753.html$domain=openload.co
+||mnet-ad.net^
+||myanimelist.cdn-dena.com/images/membership/banner-paypal.png?v=1
+||myanimelist.cdn-dena.com/images/membership/banner2.gif?v=1
+||okoads.com^*/ads.gif?ch=1&rn=
+||openload.co/*license
+||openload.co/*script
+||openload.co/embed/hpwo0NKlzEY/
+||p.acceptableserver.com/px.gif?ch=2$domain=p.acceptableserver.com
+||p.skimresources.com/px.gif?ch=2&rn=$domain=~gorillavid.in|~grammarist.com
+||p.skimthrough.net/px.gif?ch=2&rn=$domain=~gorillavid.in|~grammarist.com
+||pbs.twimg.com/media/C-rrTZAWsAAeDQC.jpg
+||pbs.twimg.com/media/DDb_wiYUMAAQFPC.jpg
+||pbs.twimg.com/media/DJoWWsrW0AIMlFY.jpg
+||pinturillo2.com/images/image1.jpg
+||platform.twitter.com/widgets.js
+||pointoo.de/px.js?ch=2$domain=pointoo.de
+||s.4cdn.org/image/contest_banners/5df10e817fcac43cfe56a4f00c22d68838d2036b.gif
+||s.yimg.com/hl/ap/default/140801/px.png?ch=2$domain=yahoo.com
+||search.1und1.de/s.gif?jsession=c3VjaGUuYWJwMiZ$domain=search.1und1.de
+||search.1und1.de/stats?section=search.serp.aview&jsession=dmlldz0y$domain=search.1und1.de
+||search.gmx.net/stats?section=search.serp.aview&jsession=dmlldz0y$domain=search.gmx.net
+||search.mail.com/s.gif?jsession=c3VjaGUuYWJwMiZ$domain=search.mail.com
+||similarsites.com*px.gif?ch=2&rn=$domain=similarsites.com
+||smartsearch.de/stats?section=search.serp.aview&jsession=dmlldz0y$domain=smartsearch.de
+||somoskudasai.com/latest_posts.php
+||st.bebi.com/bebi_v3.js
+||startpage.com*px.gif?ch=2&rn=$domain=startpage.com
+||static.aaplat.net/images/pixel.gif?ch=2$domain=aaplat.net|ione3preprod.com|hellobeautiful.com|globalgrind.com|newsone.com|theurbandaily.com|blackamericaweb.com|stuffflypeoplelike.com|nybooks.com|coolmath-games.com
+||static.animeid.tv/ads/300x250.html?181392
+||static.criteo.net/images/pixel.gif?ch=2$domain=focus.de
+||static.criteo.net/images/pixel.gif?ch=2$domain=~yahoo.com
+||static.criteo.net/js/px.js?ch=2$domain=~yahoo.com
+||static.presscommtech.com/mediastoke/$image,domain=riviera24.it
+||static.xx.fbcdn.net/rsrc.php/v3/y1/r/LVx-xkvaJ0b.png
+||static.xx.fbcdn.net/rsrc.php/v3i-0L4/yx/l/es_LA/17XXQN0ynls.js
+||static.xx.fbcdn.net/rsrc.php/v3igAi4/yr/l/es_ES/7k-ideP5XzC.js
+||staticxx.facebook.com/connect/xd_arbiter/r/1FegrZjPbq3.js?version=42
+||stopbot.tk/publishers_728%C3%9790.gif
+||streamcloud.eu/xupload.js
+||suche.1und1.de/stats?section=search.serp.aview&jsession=dmlldz0y$domain=suche.1und1.de
+||suche.gmx.net/s.gif?jsession=c3VjaGUuYWJwMiZ$domain=suche.gmx.net
+||suche.gmx.net/stats?section=search.serp.aview&jsession=dmlldz0y$domain=suche.gmx.net
+||suche.web.de/s.gif?jsession=c3VjaGUuYWJwMiZ$domain=suche.web.de
+||suche.web.de/stats?section=search.serp.aview&jsession=dmlldz0y$domain=suche.web.de
+||taadd.com/files/img/site_skin/es/*
+||taadd.com/files/img/site_skin/es/left_1.jpg
+||taadd.com/files/img/site_skin/es/left_2.jpg
+||taadd.com/files/img/site_skin/es/left_3.jpg
+||taadd.com/files/img/site_skin/es/left_4.jpg
+||taadd.com/files/img/site_skin/es/right_1.jpg
+||taadd.com/files/img/site_skin/es/right_2.jpg
+||taadd.com/files/img/site_skin/es/right_3.jpg
+||taboola.com
+||taboola.com^
+||topsite.com*px.gif?ch=2&rn=$domain=topsite.com
+||tumblr.com/assets/scripts/tumblr/dashboard/px.js?ch=2$domain=tumblr.com
+||viglink.com/images/pixel.gif?ch=2$third-party
+||whos.amung.us/swidget/lk1qwknchqy0.gif
+||xml.*/click?$popup
+||yahoo.com/px.gif?ch=2$domain=yahoo.com
+||yieldlab.net/static/pixel.gif?ch=2&rn=$image,domain=fussballcup.de
+||yimg.com/gemini/pr/video_$domain=yahoo.com
+||yourupload.com/rotate/
+||zergnet.com/zerg.js$script,domain=huffingtonpost.com
+coin-hive.com/lib/coinhive.min.js
+coin-hive.com/lib/coinhive*
+||coin-hive.com/lib/coinhive.min.js
+||coin-hive.com/lib/coinhive.js
+||coinhive.com/lib/coinhive.min.js
+||coinhive.com/lib/coinhive.js
+||c-6rtwjumjzx7877x24yuhx2elttlqjx78dsinhfyntsx2ehtr.g00.wikia.com/g00/3_c-6jx78.krf.bnpnf.htr_/c-6RTWJUMJZX77x24myyux3ax2fx2fyuh.lttlqjx78dsinhfynts.htrx2fx78fkjkwfrjx2f6-5-69x2fmyrqx2fhtsyfnsjw.myrqx3fn65h.rfwp.nkwfrj.yduj_$/$/$/$/$?i10c.ua=1
+||ssraju3n.com/d9/f5/14/d9f5149e1c0ece5238b6be9745147b55.js
+||replainy.co/p?zoneId=1723609-1723668
+||nyaa.unblockall.org/cdn-cgi/apps/head/PxAMfa9Eh9BWOxGhDu7HC7R1RJQ.js
+||sslenable.review/o00o1.js
+||replainy.co/canCRLzLP/3tp/vSbDmCV/J_Z/DK0/xANHzyISzRNVj/Ab5X
+||npdbklojsvn.co/gksynglosyqm.js
+||media.discordapp.net/attachments/374660010527031297/411662301406560257/041fa7af851694476907ed1cce5a9031.jpg?width=169&height=225
+||images-ext-1.discordapp.net/external/HWW1Vi-Vp2m7OvWxHeRQcSyNnI2hcOnjYAwXxQoSyo4/https/i.gyazo.com/thumb/1200/a9cc824814f19754990322cb5de6c258-png.jpg?width=169&height=226
+||cdn.edgecast.steamstatic.com/steam/apps/627270/capsule_184x69.jpg?t=1516225761
+||s3.amazonaws.com/content.systemrequirementslab.com/cyri/assets/images/drivers-updates.gif
+||615b68cc9c8528e.com/1561207.css
+||615b68cc9c8528e.com/?xref=d3d3LnJhcGlkdmlkZW8uY29t&ip=fb6cf165d8a4fb45f35c59f5c5af0c8f&pbk3=fb8ea1450ff795676f208efa9f4f557e6539918613709530380&r=%2Foc%2Fhan&co=1&rf=1&zoneid=1561207&fs=1&cf=1&sw=1152&sh=864&sah=864&wx=0&wy=0&ww=1152&wh=864&cw=879&wiw=878&wih=494&wfc=2&pl=https%3A%2F%2Fwww.rapidvideo.com%2Fe%2FFPYS6RBRCH%26q%3D720p&drf=https%3A%2F%2Fanimeflv.net%2Fver%2F48639%2Fkakuriyo-no-yadomeshi-1&np=1&pt=0&nb=1&ng=1&ix=1&nw=0$popup
+||i.serves.live/2e2ed2bd-db5a-4c5e-8546-37abb77dac39?zoneid=1561207&campaignid=643246&visitor_id=459374274985$popup
+||urldelivery.com/watch.1054045031641?key=935a0de737cc3ab178fe489366ad46e8&kw=%5B%22urlcloud%22%5D&refer=https%3A%2F%2Furlcloud.us%2FayCP7a&tz=2&dev=r&res=4.31&uuid=
+||animeflv.net/img/banner-kudasai.gif
+||google.com/favicon.ico$popup
+||a353364ec1bd19a.com/1561207.css
+follamigos.com
+||animeflv.net/imgs/adblock_fb.png
+||facebook.com/rtb_video/?ct=AI%40d7063e339150ab380b1e0b9443e327d4&ptime=15.446492&time=20.695705&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.8999999999999999&vlm=0.9&vlmax=0.9&vwa=1&vwm=1&vwmax=1&vtime_ms=5249&atime_ms=5249&mcat_ms=20695&mcpt_ms=20695&mcvt_ms=7999&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||facebook.com/rtb_video/?ct=AI%40d7063e339150ab380b1e0b9443e327d4&ptime=20.695705&time=25.696162&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.9&vlm=0.9&vlmax=0.9&vwa=0.8433527175616146&vwm=0&vwmax=1&vtime_ms=4217&atime_ms=5000&mcat_ms=25696&mcpt_ms=25696&mcvt_ms=8495&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||facebook.com/rtb_video/?ct=AI%40d7063e339150ab380b1e0b9443e327d4&ptime=25.696162&time=30.696279&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.9&vlm=0.9&vlmax=0.9&vwa=0.9238247425010255&vwm=0.35000000000000003&vwmax=1&vtime_ms=4500&atime_ms=5000&mcat_ms=30696&mcpt_ms=30696&mcvt_ms=8495&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||facebook.com/rtb_video/?ct=AI%40d7063e339150ab380b1e0b9443e327d4&ptime=30.696279&time=32.958&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.9000000000000001&vlm=0.9&vlmax=0.9&vwa=1&vwm=1&vwmax=1&vtime_ms=2261&atime_ms=2261&mcat_ms=32958&mcpt_ms=32958&mcvt_ms=8495&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||v.adtrue.com/tag/vast?pzoneid=10417&page_url=https://animeflv.net/ver/50246/boku-no-hero-academia-3rd-season-25
+||an.facebook.com/v1/instream/vast.xml?placementid=217450872179687_217451345512973&pageurl=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25
+||onesignal.com/webPushAnalytics
+||connect.facebook.net/en_US/AudienceNetworkVPAID.js?cb=1
+||facebook.com/audience_network/client_event/?app_id=217450872179687&publisher_id=217451345512973&request_id=74df6e46-4bbe-a76c-566a-009815271389&ad_pivot_type=audience_network_instream_video&client_ts=1538215236093&event_name=initAdFromJS&error_message=&mismatch=false&error_stack_trace=
+||facebook.com/audience_network/client_event/?app_id=217450872179687&publisher_id=217451345512973&request_id=74df6e46-4bbe-a76c-566a-009815271389&ad_pivot_type=audience_network_instream_video&client_ts=1538215236143&event_name=startAd&error_message=&mismatch=false&error_stack_trace=
+||track.adtrue.com/track/request?pzoneid=10417&adid=68649665-5bc7-4533-89a5-1044306156cb&domain=animeflv.net&ref=https://animeflv.net/ver/50246/boku-no-hero-academia-3rd-season-25
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&action=16
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&action=10&ptime=0.296142&time=0.488328&inline=1&autoplay=1&vla=0&vlm=0&vlmax=0&vwa=1&vwm=1&vwmax=1&vtime_ms=192&atime_ms=0&mcat_ms=0&mcpt_ms=192&mcvt_ms=192&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf
+||facebook.com/ai.php?io=IS_ORIGINAL&tr=%7B%22ei%22%3A%7B%22ei%22%3A%22AQKGyoheAzeuKzzggSDpjxsd_bBYV9XOAFx2DFyM1f0oU1zj0QMiOCmyXVwVShm2PWwQyfqTgm6PWK5twzCbZfrr3K4fS5UyQKyk_-YvVjcXq4Zu7tvKw1NSUxpR3fNL-8CR95takJ4IPpg-3rXy0rqn9y8nUTrs1FDMb9P8Uni4TARZpPk0HVSJaUY0giJ9SyrurPmEYPtex7mJLOTpK3x1MtuLXRJfZbEgtf0Bzu15R0s99KjU4vEsWoc6vfxh4ZIzcEGt2QfsLB1Qrazqf-HTsgjPw2zgKHhORJ_yAY3Adp5kqi_FOTeSEUApVETzkdLTmVH-PC9OO-JOFpx4TC8DzmudCdEJj30qW9GWSK5C7gtFHoJkFYmr_z0TfkM_ebZgT7HkuLOXAn44YtOzCQJdZU0cMcSKi6B8m67tocP-aCrbHfA_6R8_TvnBhH14CdYdw4lsESAga8PK_MKoNBcx51OQDw3HDG9wH9gqrIf4cuji-LO4SF5WxYWo9YdsL30xNnBtwZY0yZOhKDUKjyu93WIAKcbFwo4qeh5ID9Vm-H6yiHFyelsFaMkw9aIN60v00ZwE-CwD8PmPcHepEuQuKZ9s4Tg1YBoFZUaxdkSc2YxUm4ugyDHHvMS6b9DK1BAug27nHDOTwhCbX0PZilOhd2We62ymHiuqfZoZD28vVeQIxTJ-p1H2LAf21G4LvKVbTvS3ZlKKJTec4wD5IO0XR2x07Mg-Mu9Z8lSh7guoHe-hYJzlphD-0izC1qRcM66KHjJjnM1-V8RTt1MihBTId8OqRsK2bx270X2KVZUACtbk1vOpNtL8beQe494HRFJCUI9tklLdAASe-PRHAxDkSvN6w1l82YfejCBSgCDAfCr9oJ1kDe2RMmeBzcyCdF7G9OxbH_VYN1yUGT7ZcWi9p9bfxPWp3OKQH655lxuWFQi2UkXxuiZk817ptObuFl8PjBhrb7zuS4UpIJ8AvHYA32XoBh4q8C7x55SS-CivNGvZPQqDXiGxuntF7tEIlPamanjMMboCECZIf4vS1Y6rOwaS0qap4TJTrXSGz3otkzHtvq07NnjQCzUpUcrSWO3t6Hw8vQz_flGnGq7Iu-d19e6we6HkLwQU_WXJUDUewE4eQ3fQkgjI_uMh9TyR8uyfPBfZzsvJcPp-QFLugTKW8y8PYsylpenbNZPaAAaMf3Q3m7G7QlzwfT32vjQgXh-3Etxmgif9bwGwl_d9dsAltStW02bQs5ka-ldhaUabepy2XI9k1Vm8Ufyo-AdapcH05qm3E6FrtYc2BXWqAUNS0KeMRH5ZKeIebnWEItJpCTPNbUppZ2Yoiew9_p76oSiombmeG68AwZbKzVumkHiZni2QfGV6qV5ZgV6TeMjmv6SV6WmsRuTEg6lHYqTT4UqQWPGMfSU9_LYtzp09OOjYZCWdGiYbAWrO7nJkIu58s7wuQNI0hDwOq0lmSvrRcYebuH29zKwhC24ih4_Q8O49rewGi6gSlP-UFMSkjCQogoY1A4RirRkjnJn-U0CopjJrsqYo7V6mmcF9iCPt58h4cpoC_3vaT_umI17d6DfC0W7WcVvJBowdnxpM-gsUCqnkIevHX1hUGgHufXrQfHEhndclWdnofA6bGpRn-CsE9Myx_9owGVw0_IY6JuyuP6n9opc5QtFJgjMFm2dWMdMut7LDuErgBRQpJm-tFs9jD3WG05EitPsgP5LwBHy9hxAz9bOWuweiDky9hZDdJgd82rx_LjTWjDD-uezFP_KcDx5SUvLaHensICVHl2-IFBNu6ulg_lPm6IuvioVJutBek_Qy7kXoV7T9WyCEK0crsEFp5cG9XiFFA9T-Na6OnJKvwxIuorBK4JtixHo4ZZoa7PohDFm8wCw7ePN_e0ck0aQHkx6fuy5Nf7HxjJpW0tvv86YGHUajABBLQBivuXMmOuIcqIdvg7o3nZhIFoUYs-LDjyScru9IVMhwjEXMXFQbTu2i9eACcqZDfR7x1rHUEFymJJAM0WS9GkwqSxAq3R3fqYtIy04QQtyskoNNW1cfkh-26LcZ06pKb2bnYSIE5NiFB3Sr7rmhipAiALaL3kEPdNvyyc_uBBRC9QN66qpvX3Uk_qpoNte47pfIIJU_l_KSp_QLdXPoz3jFXDzPceHkNu57Dj_iDNsMPKeCtOTpj3fAUyowMR50JXaFDdgB8L327oN0koWxyp_ClYHOKIJG9SlwwgIYqVySs1S6T3sjLZt9P5fDQvF1sUQnCUpcAb11otWWGgiZ_VCIX6ZiS3oV_PWuP8u0FMZiPhysny8V1Ij0eeXL-bWBtzeWA0gn6fIuYLLJxD54SkhZOPXpTJ-6YeWOJAcnbBQw82bDryiitYZVwwqx9EgldkS955-xhBvYvug_l7zhoZ9Fo8397xF0ZeWemL00CzMVQNcExqZDlXsRxzVgH0-Mt7ShrKqUVwjgjMC6WVrmv_fD9t_M6vbKyW6ZfAGwNWQshuvump-VVgQlVcj5f6n_w2k7ba9SeVCCaVGS9nUhjT84rOkuPlrGft1r2gxGL_f9Xiq54L-__NYsU75TYOw2v0Qmdm-wnAAaDloyFblcBbrdKBVQwVhqzZQKu5CEb-oBE_l_TTite2ghA_Xc7s-PEvgmv9y8wHO262-_y3LsOOQCYV1yPO76F4fJ7xOfB-fuq25afuxdnXr9Qco14ClengjdasNOCV0UNyx6X-WV3Cq5ZMg1kgv1CG4xW8KYFBua65ANUj1CHDh3vbAqv4jMowj3_jwfvoJooy-fi4VQ7OFHipJc_a66Gd2v0lTHBUVgBtJXibpWY-xDHxU-vtqZf3yBnE25D_yZ_j3RcMpfVRkL7Xt8OHU2c2x3wWQ6uDTQru7j89pOb-d5NynO7xnRpCtnnBEDFAs83mjSUR6SSXrDr2eZbn6aXYY6BptnlUmMGZtpghIvYhOEFYGePLKRqXZqXNH95O4FuYi70HlulHuo0yCa7671xPTvitYyEXl6QQwvdYOiiNN7rs2MwgWeZdlXZv_Mj7YsMEMpMf6UN405e4CsTkSMLK15BuN0OrsYhTKSzlK8ebs5qzztPsWXZHBkFkwfLE9WaCan-r84QnYv1uFt9Ch_odAC5VaT1cVmouj5XGPZ89FdXP1scQ9LoQvgZVjZ-TLQYPXWwJF3cjzMHtg7wJC1PnnACmZWf2LQZvjhIZzB2MdTKw_lx5ZQX3UY1XGEIfy6qT0B935HZiYiBM8f-LCyMVQv7FvdYkF-wXVnlxaEAbuODFz2IRESIftfvGXzcKApyMKfkAxliRRolCCXOD66PDkSc1dSWc1V9IZ98nAMPHfBsvpoTXm--LwHrOgioG_u-FJkfuU2ylKFdHaqoIEoJUsZp151MG1Dd6289f8waPJ7T4RTCKk7SiIj82CM1xgIm-u63Yf_rseZr7ljD6V-oS7bcEvrNHXrL9wpoXKxXa6MEYSIvKGxTI9K5f5h5Bk4ZfMSRZ7VITs8IEkNfWPKE67keyKGv1tHRYXMS3Ckh_nZOGG-QIXJRuJ9OkdVdmYcnpOgy68lMQB3NouQuv3m74SmmhUW9my0onJpR4v1JZV0DKvXMHIONAb6NalfE2TNewdIvjYufuzT_FHaa3w3R_9sIHi3mSUplsNs_BpWrqzSmf85hsZYSueHSoBttrlKetqLZPpBs-FCV8xDgKcWjUgz9X9wmRqQRfyBupINdsSfriv-YT4Ey2LregA1lU-MGCCcE3_FUyUH7Qq_EKtuDV6c2Wo1zzSZAQXT0Trju5FENVV5FcOYnRSiqMv-pQlPx1yy91fzZMYrjaLMN_JLbtVCxPeA2IaB6gVFLTFmCjFlVXaZ6s55uFYPd_MtDZ299kHb9S-G12kR6j1alk0bd7B_I1yEjrZEOgLXlFCzP2dY2t7x1K5EMpAB4kIo6pQ1sa0Abh-yM5J4a3ZTTy5adQ8TJy6iRsIo6uBojdojDcKxuqvJ6cr69lNJ8Ayk8GXqdum25cHSrjhgYPLClZ4q9QESSnSg9qs2ckYaY8aBgq1LOM1vTr5UMv-5hNj-12GrXYQPmFdoO7p558bMFn_iRKGs0Ypun0faRBhiTYjPO2ZjDhiSFEy7d436RaSlaT2gdR0zV-XDr0GblvotV_Bxffm-SXdEl8yHnoN-MTpDDtssu2RNY9QdzlKTX-q1LoWqTvQU08dXDFEzUhJyXCgcJuQNYQhUFhtFtPQcj4n2fZus0dm_xB2mOcLHW8fanoSY9gSG8MsBF-T-9B2WWwtQfluNdPxTbWnDcrHJDphZDby2WpY952mcsadv9ag4wlUHvtxq9SyYYTSvnRjotK_nx0wIwxdv4yAcT7GvfYaC4yqiUlb4oTNKlID2tqzCywNV1lWJaZ5-NeAefv8wMiqIN4jC1qZ_eYDCnkQEhFJTYRJasJXXo-FbccsWZoCHPFRG6qZJc1bWSlHXH3jfaRclbvP4_gZNr5dMq1rmlY-T9n6baFTHaWVwUHrq4YYfi1sF3j5difNON2WZLdvtMVFWbigeTsWz0bHvhVx6_1ztP-wQS7bc3hnHXOjX6hLo7KMf0o1f56W5LO_jUwPFmH_wk0dCWNileb6e4O1y_qH453S_nnj7QdD-6qp31TinDtwwn8-wFAQpQG8e4GbASMEMA0DBVqwBajW-kaYV0f4xZqDw7LKmuuj7tSf_xRnToXcI1od3u0D81Wo6yI-hR74WOxpZlgqKRqFH2qwBHu3Wgr5rXQhFPrhMT7iWQh1gtQDQkIZPc7h_cFgUSc5rkwjSkxIOKl83mjEfu6525VJMuUKb12i9mokppMumdyPmlCW4ILT_aKLhy0PUpm8bVt4KBYwhfvY71vgLNQrYha3GZ4AGKV2u6qthqhmB9ZFvlioVDTXFwXRzB2SE7XJavNe1PjZjRC5t1W6VFpFfMNFtQzy1z9RK0MvrE2vVZ_GSRx0hec5YiASBbTiPWca1WSkOjLgwh_lXkFEeJyNsAz04-cE3VME7oYyQL1qv2pXxowQG1xZa_UGRLd35gszza99iZqj81584Pl-giQQyrMzUG5ci95dW42rjJirxTrguGuHGc0fRq4AeKKxtxz0X6tpcm5PZkIAT2r8EOoc9P5mCNMbfpsTwPTvHFYv3-ssOsq6M-nO3ryIJCCNJbaWzkch7EzA9ODeCSjs4zhXVOK-9t8T9h9S6GIqZkTeCjW9sATfyrRJxPLEuF5zJHamhQVb9K-u9cQKgUtdXlXLNMoEo7f_lYEU1JCyTwAfiROqZiF-CSjM4JsY3PJK85XaCg5vX4jdpw3ACYIoxk7qUBdDIinM8n73OhQomijYY_ZhCppqnXdxHIJJqfjnHPIrbDANre6UsSZgTNSKQU8iNsIkmsLdik-WMBgtoLym-IrKJ-54ICx5pA7mRa73WZB2nkFPyQ3EUWqXFcdtEOfm0NIT8wGgU5ZAuW-MD5_op3DWXXfBGgPKGahcXS0Ed7M_VygNOPDwDDychjpXEIAOa9UJkhk_pjYlL0Q2vp8e5-KJqmFW-TAaCDSosJbSGfaThOnTUtWHON7mqqcw2T3-OK3xCwrjQ7r4FDkzzZs3OWDWvZBuxqUFiCKs-tlEd3KXM5-Zdl-fCVtFiVzFzStvVS2SBj1yy72L8KnUUyQ2Pl03fYPbs-DJDq1BfPPN-XTze18eUZ2ibz5nptYHi-iptZiETPWSVjx66BJGejHVikXEjzLUTl8DkbMXPqpz3EioeIuUt4HqObbMTdiaT3jzbzAqSYTW7pIcV5SY2QSia3f7Cy0kxsoVpTh5IQ_zTlOhFaWnhG-bdy155KuDqY1VO8SIdvHVujPlAGAwRVwWPOa2RDO-YzHGrOYKEzxM4A5KJFkgZzPeKkpB9DIMq-gZJCiVC8imW-Kv8Lab7pwQI5_iYK2CSUX3xc4JCwvkk7w_pBYOFdV_MpVBckOT9JpPTLwUexIDUcxN1vfxdFH3Ihol_Ino2InMUStsT0jBv_AHtR9bBWKAIFSmm_gXK9yjB08QtSKUBuhT4JDCxHnDsfD0vgpcM4x-AlcSLUXaDnf7GXP2YWSusYQWoeoGF3NBA3erVWiJvUvYvYQBJPoToYmc9SAG_m1-_sa_xIoITjc-7WdfmJz_xHi4CXpOsqGkA7FpeTFOjMrA64LtZaS8BCw77NYR1Aq7f6dPBwRZux6qcxSJwnezrhzcw7vLamBPUsuw_chqWGwPKNWAkx1DAh2YkvpaDs33zFhCJUAF2pD2lq13qf43jCiN6GEFATuuhQ4OtehxUNcL8IxbRzHaqHjkazyJTcAKUETlrr3I92VdgSjhh5g6xVj8mUuiYz-proles8B644H0E8gKEm6FRUTF-jpJN2V2O4ddga6W9Ldv8u8WbhTCVTp_GeOH3dxm6tBx6YtkgPBng52kmJUildWVE4qjgkwrmB1ybq9mEg2hnAxaLdMmOWyIkdtPWCpQkNtYpz5bwo6Ey9lZ07_0feSdSt8brQpRuE3pSrkIvuF6xeubstuheunyCMULNZi5MynBv_HDFn9MkG-lwnX5QxUOf-xLSHBcv0rWNjHu7OyFir1GBlVO-A7aY5-SqBwcNjleDlPCLbhpqK14cWhy1SoxiL0KcgJGu_w6pc_jhkochyOgxOgcfjkdN8Stc1E9ZGiN2rVJCFWLvfj2hT3Lzi24ORuRQ6fpvBvt-U172wmUMT32bJwY_ctazQGDbmIK50kP3e-zeYWwDGUr5Fs4AldQNez8kKvhOrkkrJ_4ElU811KPgzg2B1otiF7SWfct_DgEZRH5DYDDqSQjROuSKErh7lIx-ujcdXhgfknUsL2AW8zt7-8awuhJyVKtCPiJB72hMgdYbvyj_N5KvnqjntDkTCuAFCWt7AnWJg3_qzwbYXrSOJX33aPTfNy8dW8W1KJxWY3sNCbA8PMYmT0lNfm269oTZ-w4o0v5U_p-dwpra3XqpJ_HgqnLJscOfEqwvae8rS9bRU8Hc_1vlF375CYo9D0t0pMDhfKevT3Kto4SXfUFXAGphqXcDbXBsTZGsGYx5p82Jr7wV5q_PfcadHffrIMsCr7hrKbF1d4Q67VQLM5Sbexh3uCHbhaF2tcmDj0l1rdhJu6gl0_kIHd0mWovKJ-uapNepy9sY_ZGSsMNUnEe1SD-hBFwE9Eozf1hjOny08JgmywPdqt3oefNytSY17CBbaSfeBQMOrOqLCziSlLZmAMUYnd4cTOQcGxYazhRA5p42xUVfGUprwviHRgxmODnx5rm_9YRXhmqitUzGHSofEYG7mcOZly2HiPrB9zgsKt70-rDFHZTpeJ9PiI40wByVb3pHsTF4LJXh_Tomk1AURHOrgJ7wOrwDZdAhk_KYvZ8xjKtYpuCTiB9VHlz3FR9927zjBqRYf2ItQKZx9HWpfWzLkP_fwVI6Md_XbeZexjdC7bx-pZmm8Xwj7UUsxIfdo2x1tXvHZZU0Y7YljMrGmH_wBP7iMUg9wvl0kiKalqjBns-NOligxceFApYKEtea6AU38BuSz3sp33nuWTqTZ90z0s4CLyTTj1JlPJOeT7BGJcIbthprLwZuO09nxALGzsHRDstLRDHcOHgldeoOwYC89w0JRv8nhoiBUJLWCP6jHeAfwCsaGF3ulnA4rRoux3mijCJwZNKpBnOREyL8YnW1R8v16_ynccnAmaJW_8OZSNzttMv4hVVO-LQmHHQIbQip147XvdZ8w73-pEABsX9KYswPF_7pC2YeLSMxP-_ghm7HXlE6B5Pbaa_PDkTStFvs82SCtYPc9ZUuqZxbSF7C26g6Os32DCR6Fd0vRXs9IKVLh-P8V2Gix2YwKu7JPyl44vO24AmFMO5B-bamuTlqcLjeS24AgMSu0Y7v9pwGmqMtsSTsLwtyYjS7%22%7D%7D&viewable_ratio=1&viewable_detection=raf&viewable_reason=raf&revision=4366865&bf=%7B%22ua%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F68.0.3440.106%20Safari%2F537.36%20OPR%2F55.0.2994.61%22%2C%22version%22%3A%225.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F68.0.3440.106%20Safari%2F537.36%20OPR%2F55.0.2994.61%22%2C%22platform%22%3A%22Win32%22%2C%22isIframe%22%3Atrue%2C%22ref%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Fs1.animeflv.net%2Fembed.php%3Fs%3Dnatsuki%26v%3DamwzVXdqMHVaS2JXY2tVWnd3ZGFCNmo5cjU0MElPSGtXQmV0OGRMYU5ESUJFL2RxOHV0eDRiMy9QQ291OGFsK3RuWlU0WmU0S3BZN09VdUoyemVoMjU1WkNWZHJNY3Z5MWV1RHdLN09xdEdNOHVTcmRyMjczUWk1YWV5VUE4Zk8%3D%22%2C%22width%22%3A1920%2C%22height%22%3A1080%2C%22awidth%22%3A1920%2C%22aheight%22%3A1080%2C%22left%22%3A0%2C%22top%22%3A0%2C%22css_all%22%3Atrue%2C%22cfq%22%3Atrue%2C%22cssvar%22%3Atrue%2C%22scope%22%3Afalse%2C%22sticky%22%3Afalse%2C%22scroll%22%3Atrue%2C%22plugins%22%3A4%2C%22pmode%22%3Afalse%2C%22colorDepth%22%3A24%2C%22websql%22%3Atrue%2C%22dnd%22%3Atrue%2C%22ce%22%3Atrue%2C%22imp%22%3Atrue%2C%22tz%22%3A-120%2C%22ogg%22%3Atrue%2C%22dialog%22%3Atrue%2C%22video%22%3Atrue%2C%22audio%22%3Atrue%2C%22ac%22%3Atrue%2C%22ancestor%22%3A%22https%3A%2F%2Fs1.animeflv.net%2Chttps%3A%2F%2Fanimeflv.net%22%2C%22chrome%22%3Atrue%2C%22chromewebstore%22%3Afalse%2C%22random%22%3Atrue%2C%22ie%22%3Atrue%2C%22userdata%22%3Atrue%2C%22srcset%22%3Atrue%2C%22canvas%22%3Atrue%2C%22emoji%22%3Atrue%2C%22pic%22%3Atrue%2C%22wc%22%3Atrue%2C%22ext%22%3Afalse%2C%22focus%22%3A%22Not%20implemented%22%2C%22pop%22%3Afalse%2C%22href%22%3A%22https%3A%2F%2Fs1.animeflv.net%2Fembed.php%3Fs%3Dnatsuki%26v%3DamwzVXdqMHVaS2JXY2tVWnd3ZGFCNmo5cjU0MElPSGtXQmV0OGRMYU5ESUJFL2RxOHV0eDRiMy9QQ291OGFsK3RuWlU0WmU0S3BZN09VdUoyemVoMjU1WkNWZHJNY3Z5MWV1RHdLN09xdEdNOHVTcmRyMjczUWk1YWV5VUE4Zk8%3D%22%2C%22devorient%22%3Atrue%2C%22devmotion%22%3Atrue%2C%22canvasfp%22%3A692303019%2C%22time%22%3A147.79999999154825%2C%22feature_times%22%3A%7B%22ua%22%3A0%2C%22version%22%3A0.10000000474974513%2C%22platform%22%3A0%2C%22isIframe%22%3A0%2C%22ref%22%3A0.0999999901978299%2C%22url%22%3A0%2C%22width%22%3A0.10000000474974513%2C%22height%22%3A0%2C%22awidth%22%3A0.10000000474974513%2C%22aheight%22%3A0.0999999901978299%2C%22left%22%3A0%2C%22top%22%3A0.10000000474974513%2C%22css_all%22%3A0.0999999901978299%2C%22cfq%22%3A0.29999999969732016%2C%22cssvar%22%3A0.20000000949949026%2C%22scope%22%3A0.0999999901978299%2C%22sticky%22%3A0.20000000949949026%2C%22scroll%22%3A0%2C%22plugins%22%3A34.19999999459833%2C%22pmode%22%3A8.099999991827644%2C%22colorDepth%22%3A0.20000000949949026%2C%22websql%22%3A0%2C%22dnd%22%3A0%2C%22ce%22%3A0.0999999901978299%2C%22imp%22%3A0.10000000474974513%2C%22tz%22%3A0%2C%22ogg%22%3A0.4000000044470653%2C%22dialog%22%3A2.3999999975785613%2C%22video%22%3A0.19999999494757503%2C%22audio%22%3A0%2C%22ac%22%3A28.69999999529682%2C%22ancestor%22%3A0.29999999969732016%2C%22chrome%22%3A0%2C%22chromewebstore%22%3A0%2C%22random%22%3A0.10000000474974513%2C%22ie%22%3A0%2C%22userdata%22%3A0.10000000474974513%2C%22srcset%22%3A0.0999999901978299%2C%22canvas%22%3A2.9000000067753717%2C%22emoji%22%3A0.6999999895924702%2C%22pic%22%3A0.10000000474974513%2C%22wc%22%3A0%2C%22ext%22%3A0.10000000474974513%2C%22focus%22%3A0%2C%22pop%22%3A0.0999999901978299%2C%22href%22%3A0%2C%22devorient%22%3A0%2C%22devmotion%22%3A0%2C%22canvasfp%22%3A2.3000000073807314%2C%22time%22%3A0%2C%22feature_times%22%3A0%2C%22avail_dimensions%22%3A0%2C%22colorPixelDepth%22%3A0%2C%22dimensions%22%3A0.0999999901978299%2C%22topWindowDriver%22%3A0.4000000044470653%2C%22domAutomation%22%3A0%2C%22webdriverCache%22%3A0%2C%22externalUrl%22%3A0.10000000474974513%2C%22operaA%22%3A0%2C%22operaB%22%3A0.0999999901978299%2C%22webDriver%22%3A0%2C%22engine%22%3A7.300000012037344%2C%22ieExternal%22%3A0.4999999946448952%2C%22fontDiff%22%3A1.0999999940395355%2C%22fonts%22%3A54.90000000281725%7D%2C%22avail_dimensions%22%3Afalse%2C%22colorPixelDepth%22%3Afalse%2C%22dimensions%22%3Afalse%2C%22topWindowDriver%22%3A%22Blocked%20a%20frame%20with%20origin%20%5C%22https%3A%2F%2Fs1.animeflv.net%5C%22%20from%20accessing%20a%20cross-origin%20frame.%22%2C%22domAutomation%22%3Afalse%2C%22webdriverCache%22%3Afalse%2C%22externalUrl%22%3Afalse%2C%22operaA%22%3Afalse%2C%22operaB%22%3Afalse%2C%22webDriver%22%3Afalse%2C%22engine%22%3A%22webkit%22%2C%22ieExternal%22%3A%22%7B%5C%22AddChannel%5C%22%3Afalse%2C%5C%22AddDesktopComponent%5C%22%3Afalse%2C%5C%22AddFavorite%5C%22%3Afalse%2C%5C%22AddSearchProvider%5C%22%3Atrue%2C%5C%22AddService%5C%22%3Afalse%2C%5C%22AddToFavoritesBar%5C%22%3Afalse%2C%5C%22AutoCompleteSaveForm%5C%22%3Afalse%2C%5C%22AutoScan%5C%22%3Afalse%2C%5C%22bubbleEvent%5C%22%3Afalse%2C%5C%22ContentDiscoveryReset%5C%22%3Afalse%2C%5C%22ImportExportFavorites%5C%22%3Afalse%2C%5C%22InPrivateFilteringEnabled%5C%22%3Afalse%2C%5C%22IsSearchProviderInstalled%5C%22%3Atrue%2C%5C%22IsServiceInstalled%5C%22%3Afalse%2C%5C%22IsSubscribed%5C%22%3Afalse%2C%5C%22msActiveXFilteringEnabled%5C%22%3Afalse%2C%5C%22msAddSiteMode%5C%22%3Afalse%2C%5C%22msAddTrackingProtectionList%5C%22%3Afalse%2C%5C%22msClearTile%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueue%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueueForSquare150x150%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueueForSquare310x310%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueueForWide310x150%5C%22%3Afalse%2C%5C%22msIsSiteMode%5C%22%3Afalse%2C%5C%22msIsSiteModeFirstRun%5C%22%3Afalse%2C%5C%22msPinnedSiteState%5C%22%3Afalse%2C%5C%22msProvisionNetworks%5C%22%3Afalse%2C%5C%22msRemoveScheduledTileNotification%5C%22%3Afalse%2C%5C%22msReportSafeUrl%5C%22%3Afalse%2C%5C%22msScheduledTileNotification%5C%22%3Afalse%2C%5C%22msSiteModeActivate%5C%22%3Afalse%2C%5C%22msSiteModeAddButtonStyle%5C%22%3Afalse%2C%5C%22msSiteModeAddJumpListItem%5C%22%3Afalse%2C%5C%22msSiteModeAddThumbBarButton%5C%22%3Afalse%2C%5C%22msSiteModeClearBadge%5C%22%3Afalse%2C%5C%22msSiteModeClearIconOverlay%5C%22%3Afalse%2C%5C%22msSiteModeClearJumpList%5C%22%3Afalse%2C%5C%22msSiteModeCreateJumpList%5C%22%3Afalse%2C%5C%22msSiteModeRefreshBadge%5C%22%3Afalse%2C%5C%22msSiteModeSetIconOverlay%5C%22%3Afalse%2C%5C%22msSiteModeShowButtonStyle%5C%22%3Afalse%2C%5C%22msSiteModeShowJumpList%5C%22%3Afalse%2C%5C%22msSiteModeShowThumbBar%5C%22%3Afalse%2C%5C%22msSiteModeUpdateThumbBarButton%5C%22%3Afalse%2C%5C%22msStartPeriodicBadgeUpdate%5C%22%3Afalse%2C%5C%22msStartPeriodicTileUpdate%5C%22%3Afalse%2C%5C%22msStartPeriodicTileUpdateBatch%5C%22%3Afalse%2C%5C%22msStopPeriodicBadgeUpdate%5C%22%3Afalse%2C%5C%22msStopPeriodicTileUpdate%5C%22%3Afalse%2C%5C%22msTrackingProtectionEnabled%5C%22%3Afalse%2C%5C%22NavigateAndFind%5C%22%3Afalse%2C%5C%22raiseEvent%5C%22%3Afalse%2C%5C%22setContextMenu%5C%22%3Afalse%2C%5C%22ShowBrowserUI%5C%22%3Afalse%2C%5C%22menuArguments%5C%22%3Afalse%2C%5C%22onvisibilitychange%5C%22%3Afalse%2C%5C%22scrollbar%5C%22%3Afalse%2C%5C%22selectableContent%5C%22%3Afalse%2C%5C%22version%5C%22%3Afalse%2C%5C%22visibility%5C%22%3Afalse%2C%5C%22mssitepinned%5C%22%3Afalse%2C%5C%22AddUrlAuthentication%5C%22%3Afalse%2C%5C%22CloseRegPopup%5C%22%3Afalse%2C%5C%22FeatureEnabled%5C%22%3Afalse%2C%5C%22GetJsonWebData%5C%22%3Afalse%2C%5C%22GetRegValue%5C%22%3Afalse%2C%5C%22Log%5C%22%3Afalse%2C%5C%22LogShellErrorsOnly%5C%22%3Afalse%2C%5C%22OpenPopup%5C%22%3Afalse%2C%5C%22ReadFile%5C%22%3Afalse%2C%5C%22RunGutsScript%5C%22%3Afalse%2C%5C%22SaveRegInfo%5C%22%3Afalse%2C%5C%22SetAppMaximizeTimeToRestart%5C%22%3Afalse%2C%5C%22SetAppMinimizeTimeToRestart%5C%22%3Afalse%2C%5C%22SetAutoStart%5C%22%3Afalse%2C%5C%22SetAutoStartMinimized%5C%22%3Afalse%2C%5C%22SetMaxMemory%5C%22%3Afalse%2C%5C%22ShareEventFromBrowser%5C%22%3Afalse%2C%5C%22ShowPopup%5C%22%3Afalse%2C%5C%22ShowRadar%5C%22%3Afalse%2C%5C%22WriteFile%5C%22%3Afalse%2C%5C%22WriteRegValue%5C%22%3Afalse%2C%5C%22summonWalrus%5C%22%3Afalse%7D%22%2C%22fontDiff%22%3A7%2C%22fonts%22%3A%22%7B%5C%22Ubuntu%5C%22%3Afalse%2C%5C%22Utopia%5C%22%3Afalse%2C%5C%22URW%20Gothic%20L%5C%22%3Afalse%2C%5C%22Bitstream%20Charter%5C%22%3Afalse%2C%5C%22FreeMono%5C%22%3Afalse%2C%5C%22DejaVu%20Sans%5C%22%3Atrue%2C%5C%22Droid%20Serif%5C%22%3Afalse%2C%5C%22Liberation%20Sans%5C%22%3Afalse%2C%5C%22Vrinda%5C%22%3Afalse%2C%5C%22Kartika%5C%22%3Afalse%2C%5C%22Sylfaen%5C%22%3Atrue%2C%5C%22CordiaUPC%5C%22%3Afalse%2C%5C%22Angsana%20New%20Bold%20Italic%5C%22%3Afalse%2C%5C%22DFKai-SB%5C%22%3Afalse%2C%5C%22Ebrima%5C%22%3Atrue%2C%5C%22Lao%20UI%5C%22%3Afalse%2C%5C%22Segoe%20UI%20Symbol%5C%22%3Atrue%2C%5C%22Vijaya%5C%22%3Afalse%2C%5C%22Roboto%5C%22%3Afalse%2C%5C%22Apple%20Color%20Emoji%5C%22%3Afalse%2C%5C%22Baskerville%5C%22%3Afalse%2C%5C%22Marker%20Felt%5C%22%3Afalse%2C%5C%22Apple%20Symbols%5C%22%3Afalse%2C%5C%22Chalkboard%5C%22%3Afalse%2C%5C%22Herculanum%5C%22%3Afalse%2C%5C%22Skia%5C%22%3Afalse%7D%22%7D&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2
+||facebook.com/rtb_impression/?tr=%7B%22ei%22%3A%7B%22ei%22%3A%22AQKGyoheAzeuKzzggSDpjxsd_bBYV9XOAFx2DFyM1f0oU1zj0QMiOCmyXVwVShm2PWwQyfqTgm6PWK5twzCbZfrr3K4fS5UyQKyk_-YvVjcXq4Zu7tvKw1NSUxpR3fNL-8CR95takJ4IPpg-3rXy0rqn9y8nUTrs1FDMb9P8Uni4TARZpPk0HVSJaUY0giJ9SyrurPmEYPtex7mJLOTpK3x1MtuLXRJfZbEgtf0Bzu15R0s99KjU4vEsWoc6vfxh4ZIzcEGt2QfsLB1Qrazqf-HTsgjPw2zgKHhORJ_yAY3Adp5kqi_FOTeSEUApVETzkdLTmVH-PC9OO-JOFpx4TC8DzmudCdEJj30qW9GWSK5C7gtFHoJkFYmr_z0TfkM_ebZgT7HkuLOXAn44YtOzCQJdZU0cMcSKi6B8m67tocP-aCrbHfA_6R8_TvnBhH14CdYdw4lsESAga8PK_MKoNBcx51OQDw3HDG9wH9gqrIf4cuji-LO4SF5WxYWo9YdsL30xNnBtwZY0yZOhKDUKjyu93WIAKcbFwo4qeh5ID9Vm-H6yiHFyelsFaMkw9aIN60v00ZwE-CwD8PmPcHepEuQuKZ9s4Tg1YBoFZUaxdkSc2YxUm4ugyDHHvMS6b9DK1BAug27nHDOTwhCbX0PZilOhd2We62ymHiuqfZoZD28vVeQIxTJ-p1H2LAf21G4LvKVbTvS3ZlKKJTec4wD5IO0XR2x07Mg-Mu9Z8lSh7guoHe-hYJzlphD-0izC1qRcM66KHjJjnM1-V8RTt1MihBTId8OqRsK2bx270X2KVZUACtbk1vOpNtL8beQe494HRFJCUI9tklLdAASe-PRHAxDkSvN6w1l82YfejCBSgCDAfCr9oJ1kDe2RMmeBzcyCdF7G9OxbH_VYN1yUGT7ZcWi9p9bfxPWp3OKQH655lxuWFQi2UkXxuiZk817ptObuFl8PjBhrb7zuS4UpIJ8AvHYA32XoBh4q8C7x55SS-CivNGvZPQqDXiGxuntF7tEIlPamanjMMboCECZIf4vS1Y6rOwaS0qap4TJTrXSGz3otkzHtvq07NnjQCzUpUcrSWO3t6Hw8vQz_flGnGq7Iu-d19e6we6HkLwQU_WXJUDUewE4eQ3fQkgjI_uMh9TyR8uyfPBfZzsvJcPp-QFLugTKW8y8PYsylpenbNZPaAAaMf3Q3m7G7QlzwfT32vjQgXh-3Etxmgif9bwGwl_d9dsAltStW02bQs5ka-ldhaUabepy2XI9k1Vm8Ufyo-AdapcH05qm3E6FrtYc2BXWqAUNS0KeMRH5ZKeIebnWEItJpCTPNbUppZ2Yoiew9_p76oSiombmeG68AwZbKzVumkHiZni2QfGV6qV5ZgV6TeMjmv6SV6WmsRuTEg6lHYqTT4UqQWPGMfSU9_LYtzp09OOjYZCWdGiYbAWrO7nJkIu58s7wuQNI0hDwOq0lmSvrRcYebuH29zKwhC24ih4_Q8O49rewGi6gSlP-UFMSkjCQogoY1A4RirRkjnJn-U0CopjJrsqYo7V6mmcF9iCPt58h4cpoC_3vaT_umI17d6DfC0W7WcVvJBowdnxpM-gsUCqnkIevHX1hUGgHufXrQfHEhndclWdnofA6bGpRn-CsE9Myx_9owGVw0_IY6JuyuP6n9opc5QtFJgjMFm2dWMdMut7LDuErgBRQpJm-tFs9jD3WG05EitPsgP5LwBHy9hxAz9bOWuweiDky9hZDdJgd82rx_LjTWjDD-uezFP_KcDx5SUvLaHensICVHl2-IFBNu6ulg_lPm6IuvioVJutBek_Qy7kXoV7T9WyCEK0crsEFp5cG9XiFFA9T-Na6OnJKvwxIuorBK4JtixHo4ZZoa7PohDFm8wCw7ePN_e0ck0aQHkx6fuy5Nf7HxjJpW0tvv86YGHUajABBLQBivuXMmOuIcqIdvg7o3nZhIFoUYs-LDjyScru9IVMhwjEXMXFQbTu2i9eACcqZDfR7x1rHUEFymJJAM0WS9GkwqSxAq3R3fqYtIy04QQtyskoNNW1cfkh-26LcZ06pKb2bnYSIE5NiFB3Sr7rmhipAiALaL3kEPdNvyyc_uBBRC9QN66qpvX3Uk_qpoNte47pfIIJU_l_KSp_QLdXPoz3jFXDzPceHkNu57Dj_iDNsMPKeCtOTpj3fAUyowMR50JXaFDdgB8L327oN0koWxyp_ClYHOKIJG9SlwwgIYqVySs1S6T3sjLZt9P5fDQvF1sUQnCUpcAb11otWWGgiZ_VCIX6ZiS3oV_PWuP8u0FMZiPhysny8V1Ij0eeXL-bWBtzeWA0gn6fIuYLLJxD54SkhZOPXpTJ-6YeWOJAcnbBQw82bDryiitYZVwwqx9EgldkS955-xhBvYvug_l7zhoZ9Fo8397xF0ZeWemL00CzMVQNcExqZDlXsRxzVgH0-Mt7ShrKqUVwjgjMC6WVrmv_fD9t_M6vbKyW6ZfAGwNWQshuvump-VVgQlVcj5f6n_w2k7ba9SeVCCaVGS9nUhjT84rOkuPlrGft1r2gxGL_f9Xiq54L-__NYsU75TYOw2v0Qmdm-wnAAaDloyFblcBbrdKBVQwVhqzZQKu5CEb-oBE_l_TTite2ghA_Xc7s-PEvgmv9y8wHO262-_y3LsOOQCYV1yPO76F4fJ7xOfB-fuq25afuxdnXr9Qco14ClengjdasNOCV0UNyx6X-WV3Cq5ZMg1kgv1CG4xW8KYFBua65ANUj1CHDh3vbAqv4jMowj3_jwfvoJooy-fi4VQ7OFHipJc_a66Gd2v0lTHBUVgBtJXibpWY-xDHxU-vtqZf3yBnE25D_yZ_j3RcMpfVRkL7Xt8OHU2c2x3wWQ6uDTQru7j89pOb-d5NynO7xnRpCtnnBEDFAs83mjSUR6SSXrDr2eZbn6aXYY6BptnlUmMGZtpghIvYhOEFYGePLKRqXZqXNH95O4FuYi70HlulHuo0yCa7671xPTvitYyEXl6QQwvdYOiiNN7rs2MwgWeZdlXZv_Mj7YsMEMpMf6UN405e4CsTkSMLK15BuN0OrsYhTKSzlK8ebs5qzztPsWXZHBkFkwfLE9WaCan-r84QnYv1uFt9Ch_odAC5VaT1cVmouj5XGPZ89FdXP1scQ9LoQvgZVjZ-TLQYPXWwJF3cjzMHtg7wJC1PnnACmZWf2LQZvjhIZzB2MdTKw_lx5ZQX3UY1XGEIfy6qT0B935HZiYiBM8f-LCyMVQv7FvdYkF-wXVnlxaEAbuODFz2IRESIftfvGXzcKApyMKfkAxliRRolCCXOD66PDkSc1dSWc1V9IZ98nAMPHfBsvpoTXm--LwHrOgioG_u-FJkfuU2ylKFdHaqoIEoJUsZp151MG1Dd6289f8waPJ7T4RTCKk7SiIj82CM1xgIm-u63Yf_rseZr7ljD6V-oS7bcEvrNHXrL9wpoXKxXa6MEYSIvKGxTI9K5f5h5Bk4ZfMSRZ7VITs8IEkNfWPKE67keyKGv1tHRYXMS3Ckh_nZOGG-QIXJRuJ9OkdVdmYcnpOgy68lMQB3NouQuv3m74SmmhUW9my0onJpR4v1JZV0DKvXMHIONAb6NalfE2TNewdIvjYufuzT_FHaa3w3R_9sIHi3mSUplsNs_BpWrqzSmf85hsZYSueHSoBttrlKetqLZPpBs-FCV8xDgKcWjUgz9X9wmRqQRfyBupINdsSfriv-YT4Ey2LregA1lU-MGCCcE3_FUyUH7Qq_EKtuDV6c2Wo1zzSZAQXT0Trju5FENVV5FcOYnRSiqMv-pQlPx1yy91fzZMYrjaLMN_JLbtVCxPeA2IaB6gVFLTFmCjFlVXaZ6s55uFYPd_MtDZ299kHb9S-G12kR6j1alk0bd7B_I1yEjrZEOgLXlFCzP2dY2t7x1K5EMpAB4kIo6pQ1sa0Abh-yM5J4a3ZTTy5adQ8TJy6iRsIo6uBojdojDcKxuqvJ6cr69lNJ8Ayk8GXqdum25cHSrjhgYPLClZ4q9QESSnSg9qs2ckYaY8aBgq1LOM1vTr5UMv-5hNj-12GrXYQPmFdoO7p558bMFn_iRKGs0Ypun0faRBhiTYjPO2ZjDhiSFEy7d436RaSlaT2gdR0zV-XDr0GblvotV_Bxffm-SXdEl8yHnoN-MTpDDtssu2RNY9QdzlKTX-q1LoWqTvQU08dXDFEzUhJyXCgcJuQNYQhUFhtFtPQcj4n2fZus0dm_xB2mOcLHW8fanoSY9gSG8MsBF-T-9B2WWwtQfluNdPxTbWnDcrHJDphZDby2WpY952mcsadv9ag4wlUHvtxq9SyYYTSvnRjotK_nx0wIwxdv4yAcT7GvfYaC4yqiUlb4oTNKlID2tqzCywNV1lWJaZ5-NeAefv8wMiqIN4jC1qZ_eYDCnkQEhFJTYRJasJXXo-FbccsWZoCHPFRG6qZJc1bWSlHXH3jfaRclbvP4_gZNr5dMq1rmlY-T9n6baFTHaWVwUHrq4YYfi1sF3j5difNON2WZLdvtMVFWbigeTsWz0bHvhVx6_1ztP-wQS7bc3hnHXOjX6hLo7KMf0o1f56W5LO_jUwPFmH_wk0dCWNileb6e4O1y_qH453S_nnj7QdD-6qp31TinDtwwn8-wFAQpQG8e4GbASMEMA0DBVqwBajW-kaYV0f4xZqDw7LKmuuj7tSf_xRnToXcI1od3u0D81Wo6yI-hR74WOxpZlgqKRqFH2qwBHu3Wgr5rXQhFPrhMT7iWQh1gtQDQkIZPc7h_cFgUSc5rkwjSkxIOKl83mjEfu6525VJMuUKb12i9mokppMumdyPmlCW4ILT_aKLhy0PUpm8bVt4KBYwhfvY71vgLNQrYha3GZ4AGKV2u6qthqhmB9ZFvlioVDTXFwXRzB2SE7XJavNe1PjZjRC5t1W6VFpFfMNFtQzy1z9RK0MvrE2vVZ_GSRx0hec5YiASBbTiPWca1WSkOjLgwh_lXkFEeJyNsAz04-cE3VME7oYyQL1qv2pXxowQG1xZa_UGRLd35gszza99iZqj81584Pl-giQQyrMzUG5ci95dW42rjJirxTrguGuHGc0fRq4AeKKxtxz0X6tpcm5PZkIAT2r8EOoc9P5mCNMbfpsTwPTvHFYv3-ssOsq6M-nO3ryIJCCNJbaWzkch7EzA9ODeCSjs4zhXVOK-9t8T9h9S6GIqZkTeCjW9sATfyrRJxPLEuF5zJHamhQVb9K-u9cQKgUtdXlXLNMoEo7f_lYEU1JCyTwAfiROqZiF-CSjM4JsY3PJK85XaCg5vX4jdpw3ACYIoxk7qUBdDIinM8n73OhQomijYY_ZhCppqnXdxHIJJqfjnHPIrbDANre6UsSZgTNSKQU8iNsIkmsLdik-WMBgtoLym-IrKJ-54ICx5pA7mRa73WZB2nkFPyQ3EUWqXFcdtEOfm0NIT8wGgU5ZAuW-MD5_op3DWXXfBGgPKGahcXS0Ed7M_VygNOPDwDDychjpXEIAOa9UJkhk_pjYlL0Q2vp8e5-KJqmFW-TAaCDSosJbSGfaThOnTUtWHON7mqqcw2T3-OK3xCwrjQ7r4FDkzzZs3OWDWvZBuxqUFiCKs-tlEd3KXM5-Zdl-fCVtFiVzFzStvVS2SBj1yy72L8KnUUyQ2Pl03fYPbs-DJDq1BfPPN-XTze18eUZ2ibz5nptYHi-iptZiETPWSVjx66BJGejHVikXEjzLUTl8DkbMXPqpz3EioeIuUt4HqObbMTdiaT3jzbzAqSYTW7pIcV5SY2QSia3f7Cy0kxsoVpTh5IQ_zTlOhFaWnhG-bdy155KuDqY1VO8SIdvHVujPlAGAwRVwWPOa2RDO-YzHGrOYKEzxM4A5KJFkgZzPeKkpB9DIMq-gZJCiVC8imW-Kv8Lab7pwQI5_iYK2CSUX3xc4JCwvkk7w_pBYOFdV_MpVBckOT9JpPTLwUexIDUcxN1vfxdFH3Ihol_Ino2InMUStsT0jBv_AHtR9bBWKAIFSmm_gXK9yjB08QtSKUBuhT4JDCxHnDsfD0vgpcM4x-AlcSLUXaDnf7GXP2YWSusYQWoeoGF3NBA3erVWiJvUvYvYQBJPoToYmc9SAG_m1-_sa_xIoITjc-7WdfmJz_xHi4CXpOsqGkA7FpeTFOjMrA64LtZaS8BCw77NYR1Aq7f6dPBwRZux6qcxSJwnezrhzcw7vLamBPUsuw_chqWGwPKNWAkx1DAh2YkvpaDs33zFhCJUAF2pD2lq13qf43jCiN6GEFATuuhQ4OtehxUNcL8IxbRzHaqHjkazyJTcAKUETlrr3I92VdgSjhh5g6xVj8mUuiYz-proles8B644H0E8gKEm6FRUTF-jpJN2V2O4ddga6W9Ldv8u8WbhTCVTp_GeOH3dxm6tBx6YtkgPBng52kmJUildWVE4qjgkwrmB1ybq9mEg2hnAxaLdMmOWyIkdtPWCpQkNtYpz5bwo6Ey9lZ07_0feSdSt8brQpRuE3pSrkIvuF6xeubstuheunyCMULNZi5MynBv_HDFn9MkG-lwnX5QxUOf-xLSHBcv0rWNjHu7OyFir1GBlVO-A7aY5-SqBwcNjleDlPCLbhpqK14cWhy1SoxiL0KcgJGu_w6pc_jhkochyOgxOgcfjkdN8Stc1E9ZGiN2rVJCFWLvfj2hT3Lzi24ORuRQ6fpvBvt-U172wmUMT32bJwY_ctazQGDbmIK50kP3e-zeYWwDGUr5Fs4AldQNez8kKvhOrkkrJ_4ElU811KPgzg2B1otiF7SWfct_DgEZRH5DYDDqSQjROuSKErh7lIx-ujcdXhgfknUsL2AW8zt7-8awuhJyVKtCPiJB72hMgdYbvyj_N5KvnqjntDkTCuAFCWt7AnWJg3_qzwbYXrSOJX33aPTfNy8dW8W1KJxWY3sNCbA8PMYmT0lNfm269oTZ-w4o0v5U_p-dwpra3XqpJ_HgqnLJscOfEqwvae8rS9bRU8Hc_1vlF375CYo9D0t0pMDhfKevT3Kto4SXfUFXAGphqXcDbXBsTZGsGYx5p82Jr7wV5q_PfcadHffrIMsCr7hrKbF1d4Q67VQLM5Sbexh3uCHbhaF2tcmDj0l1rdhJu6gl0_kIHd0mWovKJ-uapNepy9sY_ZGSsMNUnEe1SD-hBFwE9Eozf1hjOny08JgmywPdqt3oefNytSY17CBbaSfeBQMOrOqLCziSlLZmAMUYnd4cTOQcGxYazhRA5p42xUVfGUprwviHRgxmODnx5rm_9YRXhmqitUzGHSofEYG7mcOZly2HiPrB9zgsKt70-rDFHZTpeJ9PiI40wByVb3pHsTF4LJXh_Tomk1AURHOrgJ7wOrwDZdAhk_KYvZ8xjKtYpuCTiB9VHlz3FR9927zjBqRYf2ItQKZx9HWpfWzLkP_fwVI6Md_XbeZexjdC7bx-pZmm8Xwj7UUsxIfdo2x1tXvHZZU0Y7YljMrGmH_wBP7iMUg9wvl0kiKalqjBns-NOligxceFApYKEtea6AU38BuSz3sp33nuWTqTZ90z0s4CLyTTj1JlPJOeT7BGJcIbthprLwZuO09nxALGzsHRDstLRDHcOHgldeoOwYC89w0JRv8nhoiBUJLWCP6jHeAfwCsaGF3ulnA4rRoux3mijCJwZNKpBnOREyL8YnW1R8v16_ynccnAmaJW_8OZSNzttMv4hVVO-LQmHHQIbQip147XvdZ8w73-pEABsX9KYswPF_7pC2YeLSMxP-_ghm7HXlE6B5Pbaa_PDkTStFvs82SCtYPc9ZUuqZxbSF7C26g6Os32DCR6Fd0vRXs9IKVLh-P8V2Gix2YwKu7JPyl44vO24AmFMO5B-bamuTlqcLjeS24AgMSu0Y7v9pwGmqMtsSTsLwtyYjS7%22%7D%7D&viewable_ratio=1&viewable_detection=raf&viewable_reason=raf&revision=4366865&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&action=3&ptime=0.21756799999999998&time=2.217568&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.9000000000000001&vlm=0.9&vlmax=0.9&vwa=0.9382504223568631&vwm=0.75&vwmax=1&vtime_ms=2190&atime_ms=2190&mcat_ms=2190&mcpt_ms=2190&mcvt_ms=2190&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&bf=%7B%22ua%22%3A%22Mozilla%2F5.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F68.0.3440.106%20Safari%2F537.36%20OPR%2F55.0.2994.61%22%2C%22version%22%3A%225.0%20(Windows%20NT%2010.0%3B%20Win64%3B%20x64)%20AppleWebKit%2F537.36%20(KHTML%2C%20like%20Gecko)%20Chrome%2F68.0.3440.106%20Safari%2F537.36%20OPR%2F55.0.2994.61%22%2C%22platform%22%3A%22Win32%22%2C%22isIframe%22%3Atrue%2C%22ref%22%3A%22%22%2C%22url%22%3A%22https%3A%2F%2Fs1.animeflv.net%2Fembed.php%3Fs%3Dnatsuki%26v%3DamwzVXdqMHVaS2JXY2tVWnd3ZGFCNmo5cjU0MElPSGtXQmV0OGRMYU5ESUJFL2RxOHV0eDRiMy9QQ291OGFsK3RuWlU0WmU0S3BZN09VdUoyemVoMjU1WkNWZHJNY3Z5MWV1RHdLN09xdEdNOHVTcmRyMjczUWk1YWV5VUE4Zk8%3D%22%2C%22width%22%3A1920%2C%22height%22%3A1080%2C%22awidth%22%3A1920%2C%22aheight%22%3A1080%2C%22left%22%3A0%2C%22top%22%3A0%2C%22css_all%22%3Atrue%2C%22cfq%22%3Atrue%2C%22cssvar%22%3Atrue%2C%22scope%22%3Afalse%2C%22sticky%22%3Afalse%2C%22scroll%22%3Atrue%2C%22plugins%22%3A4%2C%22pmode%22%3Afalse%2C%22colorDepth%22%3A24%2C%22websql%22%3Atrue%2C%22dnd%22%3Atrue%2C%22ce%22%3Atrue%2C%22imp%22%3Atrue%2C%22tz%22%3A-120%2C%22ogg%22%3Atrue%2C%22dialog%22%3Atrue%2C%22video%22%3Atrue%2C%22audio%22%3Atrue%2C%22ac%22%3Atrue%2C%22ancestor%22%3A%22https%3A%2F%2Fs1.animeflv.net%2Chttps%3A%2F%2Fanimeflv.net%22%2C%22chrome%22%3Atrue%2C%22chromewebstore%22%3Afalse%2C%22random%22%3Atrue%2C%22ie%22%3Atrue%2C%22userdata%22%3Atrue%2C%22srcset%22%3Atrue%2C%22canvas%22%3Atrue%2C%22emoji%22%3Atrue%2C%22pic%22%3Atrue%2C%22wc%22%3Atrue%2C%22ext%22%3Afalse%2C%22focus%22%3A%22Not%20implemented%22%2C%22pop%22%3Afalse%2C%22href%22%3A%22https%3A%2F%2Fs1.animeflv.net%2Fembed.php%3Fs%3Dnatsuki%26v%3DamwzVXdqMHVaS2JXY2tVWnd3ZGFCNmo5cjU0MElPSGtXQmV0OGRMYU5ESUJFL2RxOHV0eDRiMy9QQ291OGFsK3RuWlU0WmU0S3BZN09VdUoyemVoMjU1WkNWZHJNY3Z5MWV1RHdLN09xdEdNOHVTcmRyMjczUWk1YWV5VUE4Zk8%3D%22%2C%22devorient%22%3Atrue%2C%22devmotion%22%3Atrue%2C%22canvasfp%22%3A692303019%2C%22time%22%3A70.09999999718275%2C%22feature_times%22%3A%7B%22ua%22%3A0.10000000474974513%2C%22version%22%3A0%2C%22platform%22%3A0%2C%22isIframe%22%3A0%2C%22ref%22%3A0%2C%22url%22%3A0%2C%22width%22%3A0%2C%22height%22%3A0%2C%22awidth%22%3A0%2C%22aheight%22%3A0%2C%22left%22%3A0.10000000474974513%2C%22top%22%3A0%2C%22css_all%22%3A0%2C%22cfq%22%3A0%2C%22cssvar%22%3A0.10000000474974513%2C%22scope%22%3A0%2C%22sticky%22%3A0.0999999901978299%2C%22scroll%22%3A0%2C%22plugins%22%3A0%2C%22pmode%22%3A0.10000000474974513%2C%22colorDepth%22%3A0%2C%22websql%22%3A0%2C%22dnd%22%3A0%2C%22ce%22%3A0%2C%22imp%22%3A0.0999999901978299%2C%22tz%22%3A0.10000000474974513%2C%22ogg%22%3A0.19999999494757503%2C%22dialog%22%3A0%2C%22video%22%3A0%2C%22audio%22%3A0%2C%22ac%22%3A4.2000000103143975%2C%22ancestor%22%3A0.0999999901978299%2C%22chrome%22%3A0%2C%22chromewebstore%22%3A0%2C%22random%22%3A0%2C%22ie%22%3A0%2C%22userdata%22%3A0%2C%22srcset%22%3A0.0999999901978299%2C%22canvas%22%3A0%2C%22emoji%22%3A0.5000000091968104%2C%22pic%22%3A0%2C%22wc%22%3A0%2C%22ext%22%3A0%2C%22focus%22%3A0.0999999901978299%2C%22pop%22%3A0%2C%22href%22%3A0%2C%22devorient%22%3A0%2C%22devmotion%22%3A0%2C%22canvasfp%22%3A1.500000013038516%2C%22time%22%3A0%2C%22feature_times%22%3A0%2C%22avail_dimensions%22%3A0.0999999901978299%2C%22colorPixelDepth%22%3A0%2C%22dimensions%22%3A0%2C%22topWindowDriver%22%3A0.20000000949949026%2C%22domAutomation%22%3A0%2C%22webdriverCache%22%3A0%2C%22externalUrl%22%3A0.0999999901978299%2C%22operaA%22%3A0%2C%22operaB%22%3A0%2C%22webDriver%22%3A0%2C%22engine%22%3A2.6000000070780516%2C%22ieExternal%22%3A0.39999998989515007%2C%22fontDiff%22%3A1.700000007986091%2C%22fonts%22%3A57.19999999564607%7D%2C%22avail_dimensions%22%3Afalse%2C%22colorPixelDepth%22%3Afalse%2C%22dimensions%22%3Afalse%2C%22topWindowDriver%22%3A%22Blocked%20a%20frame%20with%20origin%20%5C%22https%3A%2F%2Fs1.animeflv.net%5C%22%20from%20accessing%20a%20cross-origin%20frame.%22%2C%22domAutomation%22%3Afalse%2C%22webdriverCache%22%3Afalse%2C%22externalUrl%22%3Afalse%2C%22operaA%22%3Afalse%2C%22operaB%22%3Afalse%2C%22webDriver%22%3Afalse%2C%22engine%22%3A%22webkit%22%2C%22ieExternal%22%3A%22%7B%5C%22AddChannel%5C%22%3Afalse%2C%5C%22AddDesktopComponent%5C%22%3Afalse%2C%5C%22AddFavorite%5C%22%3Afalse%2C%5C%22AddSearchProvider%5C%22%3Atrue%2C%5C%22AddService%5C%22%3Afalse%2C%5C%22AddToFavoritesBar%5C%22%3Afalse%2C%5C%22AutoCompleteSaveForm%5C%22%3Afalse%2C%5C%22AutoScan%5C%22%3Afalse%2C%5C%22bubbleEvent%5C%22%3Afalse%2C%5C%22ContentDiscoveryReset%5C%22%3Afalse%2C%5C%22ImportExportFavorites%5C%22%3Afalse%2C%5C%22InPrivateFilteringEnabled%5C%22%3Afalse%2C%5C%22IsSearchProviderInstalled%5C%22%3Atrue%2C%5C%22IsServiceInstalled%5C%22%3Afalse%2C%5C%22IsSubscribed%5C%22%3Afalse%2C%5C%22msActiveXFilteringEnabled%5C%22%3Afalse%2C%5C%22msAddSiteMode%5C%22%3Afalse%2C%5C%22msAddTrackingProtectionList%5C%22%3Afalse%2C%5C%22msClearTile%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueue%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueueForSquare150x150%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueueForSquare310x310%5C%22%3Afalse%2C%5C%22msEnableTileNotificationQueueForWide310x150%5C%22%3Afalse%2C%5C%22msIsSiteMode%5C%22%3Afalse%2C%5C%22msIsSiteModeFirstRun%5C%22%3Afalse%2C%5C%22msPinnedSiteState%5C%22%3Afalse%2C%5C%22msProvisionNetworks%5C%22%3Afalse%2C%5C%22msRemoveScheduledTileNotification%5C%22%3Afalse%2C%5C%22msReportSafeUrl%5C%22%3Afalse%2C%5C%22msScheduledTileNotification%5C%22%3Afalse%2C%5C%22msSiteModeActivate%5C%22%3Afalse%2C%5C%22msSiteModeAddButtonStyle%5C%22%3Afalse%2C%5C%22msSiteModeAddJumpListItem%5C%22%3Afalse%2C%5C%22msSiteModeAddThumbBarButton%5C%22%3Afalse%2C%5C%22msSiteModeClearBadge%5C%22%3Afalse%2C%5C%22msSiteModeClearIconOverlay%5C%22%3Afalse%2C%5C%22msSiteModeClearJumpList%5C%22%3Afalse%2C%5C%22msSiteModeCreateJumpList%5C%22%3Afalse%2C%5C%22msSiteModeRefreshBadge%5C%22%3Afalse%2C%5C%22msSiteModeSetIconOverlay%5C%22%3Afalse%2C%5C%22msSiteModeShowButtonStyle%5C%22%3Afalse%2C%5C%22msSiteModeShowJumpList%5C%22%3Afalse%2C%5C%22msSiteModeShowThumbBar%5C%22%3Afalse%2C%5C%22msSiteModeUpdateThumbBarButton%5C%22%3Afalse%2C%5C%22msStartPeriodicBadgeUpdate%5C%22%3Afalse%2C%5C%22msStartPeriodicTileUpdate%5C%22%3Afalse%2C%5C%22msStartPeriodicTileUpdateBatch%5C%22%3Afalse%2C%5C%22msStopPeriodicBadgeUpdate%5C%22%3Afalse%2C%5C%22msStopPeriodicTileUpdate%5C%22%3Afalse%2C%5C%22msTrackingProtectionEnabled%5C%22%3Afalse%2C%5C%22NavigateAndFind%5C%22%3Afalse%2C%5C%22raiseEvent%5C%22%3Afalse%2C%5C%22setContextMenu%5C%22%3Afalse%2C%5C%22ShowBrowserUI%5C%22%3Afalse%2C%5C%22menuArguments%5C%22%3Afalse%2C%5C%22onvisibilitychange%5C%22%3Afalse%2C%5C%22scrollbar%5C%22%3Afalse%2C%5C%22selectableContent%5C%22%3Afalse%2C%5C%22version%5C%22%3Afalse%2C%5C%22visibility%5C%22%3Afalse%2C%5C%22mssitepinned%5C%22%3Afalse%2C%5C%22AddUrlAuthentication%5C%22%3Afalse%2C%5C%22CloseRegPopup%5C%22%3Afalse%2C%5C%22FeatureEnabled%5C%22%3Afalse%2C%5C%22GetJsonWebData%5C%22%3Afalse%2C%5C%22GetRegValue%5C%22%3Afalse%2C%5C%22Log%5C%22%3Afalse%2C%5C%22LogShellErrorsOnly%5C%22%3Afalse%2C%5C%22OpenPopup%5C%22%3Afalse%2C%5C%22ReadFile%5C%22%3Afalse%2C%5C%22RunGutsScript%5C%22%3Afalse%2C%5C%22SaveRegInfo%5C%22%3Afalse%2C%5C%22SetAppMaximizeTimeToRestart%5C%22%3Afalse%2C%5C%22SetAppMinimizeTimeToRestart%5C%22%3Afalse%2C%5C%22SetAutoStart%5C%22%3Afalse%2C%5C%22SetAutoStartMinimized%5C%22%3Afalse%2C%5C%22SetMaxMemory%5C%22%3Afalse%2C%5C%22ShareEventFromBrowser%5C%22%3Afalse%2C%5C%22ShowPopup%5C%22%3Afalse%2C%5C%22ShowRadar%5C%22%3Afalse%2C%5C%22WriteFile%5C%22%3Afalse%2C%5C%22WriteRegValue%5C%22%3Afalse%2C%5C%22summonWalrus%5C%22%3Afalse%7D%22%2C%22fontDiff%22%3A7%2C%22fonts%22%3A%22%7B%5C%22Ubuntu%5C%22%3Afalse%2C%5C%22Utopia%5C%22%3Afalse%2C%5C%22URW%20Gothic%20L%5C%22%3Afalse%2C%5C%22Bitstream%20Charter%5C%22%3Afalse%2C%5C%22FreeMono%5C%22%3Afalse%2C%5C%22DejaVu%20Sans%5C%22%3Atrue%2C%5C%22Droid%20Serif%5C%22%3Afalse%2C%5C%22Liberation%20Sans%5C%22%3Afalse%2C%5C%22Vrinda%5C%22%3Afalse%2C%5C%22Kartika%5C%22%3Afalse%2C%5C%22Sylfaen%5C%22%3Atrue%2C%5C%22CordiaUPC%5C%22%3Afalse%2C%5C%22Angsana%20New%20Bold%20Italic%5C%22%3Afalse%2C%5C%22DFKai-SB%5C%22%3Afalse%2C%5C%22Ebrima%5C%22%3Atrue%2C%5C%22Lao%20UI%5C%22%3Afalse%2C%5C%22Segoe%20UI%20Symbol%5C%22%3Atrue%2C%5C%22Vijaya%5C%22%3Afalse%2C%5C%22Roboto%5C%22%3Afalse%2C%5C%22Apple%20Color%20Emoji%5C%22%3Afalse%2C%5C%22Baskerville%5C%22%3Afalse%2C%5C%22Marker%20Felt%5C%22%3Afalse%2C%5C%22Apple%20Symbols%5C%22%3Afalse%2C%5C%22Chalkboard%5C%22%3Afalse%2C%5C%22Herculanum%5C%22%3Afalse%2C%5C%22Skia%5C%22%3Afalse%7D%22%7D
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&ptime=0&time=5.191997&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.8999999999999999&vlm=0.9&vlmax=0.9&vwa=0.9739457187667867&vwm=0.75&vwmax=1&vtime_ms=5191&atime_ms=5191&mcat_ms=5191&mcpt_ms=5191&mcvt_ms=5191&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&ptime=5.191997&time=10.440604&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.8999999999999999&vlm=0.9&vlmax=0.9&vwa=1&vwm=1&vwmax=1&vtime_ms=5248&atime_ms=5248&mcat_ms=10440&mcpt_ms=10440&mcvt_ms=10440&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&ptime=10.440604&time=15.44094&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.9&vlm=0.9&vlmax=0.9&vwa=1&vwm=1&vwmax=1&vtime_ms=5000&atime_ms=5000&mcat_ms=15440&mcpt_ms=15440&mcvt_ms=15440&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&ptime=15.44094&time=20.44094&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.9&vlm=0.9&vlmax=0.9&vwa=1&vwm=1&vwmax=1&vtime_ms=5000&atime_ms=5000&mcat_ms=20440&mcpt_ms=20440&mcvt_ms=20440&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||facebook.com/rtb_video/?ct=AI%40e9a6020573816163ea7f4e78d52e0b08&ptime=20.44094&time=25.690786&action=2&detected_page_domain=animeflv.net&detected_page_url=https%3A%2F%2Fanimeflv.net%2Fver%2F50246%2Fboku-no-hero-academia-3rd-season-25&domain_detection_method=2&pt=0&pl=0&ph=494&pw=878&inline=1&autoplay=1&vla=0.8999999999999999&vlm=0.9&vlmax=0.9&vwa=0.9976332829572524&vwm=0.95&vwmax=1&vtime_ms=5249&atime_ms=5249&mcat_ms=25690&mcpt_ms=25690&mcvt_ms=25690&spt_ms=0&maa=433732&ortn=h&vw_d=raf&vw_rsn=raf&pbra=1&focus=%5B2%2C2%2C0%5D
+||elitegol.me/reloadads.php
+||animeflv.net/assets/animeflv/img/sorteo.jpg
+||unknowncheats.me/forum/images/ez/bfvcheat.gif
+! Mining ||coin-hive.com^$third-party ||jsecoin.com^$third-party
 espn.in##.OUTBRAIN > .ob-widget.ob-strip-layout.CRAB_7
 essence.com##.OUTBRAIN > .SB_1 > .ob-first .ob-p
 essence.com##.OUTBRAIN > .SB_2 > .ob-first .ob-p
